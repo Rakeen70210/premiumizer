@@ -1,0 +1,1238 @@
+12-30 05:05:39: INFO : Watchdir is enabled at: /mnt/GDrive/Blackhole
+12-30 05:05:40: INFO : Starting server on 0.0.0.0:5000 
+From https://github.com/piejanssens/premiumizer
+   14cd3f0..7f85807  master     -> origin/master
+12-30 05:05:45: INFO : Added: gR2bUVbuUUHbqHUI2bl2SSbsVVUbtPNO0bxbCDbcCfC.7z -- Category:  -- Type:  -- id: ryAM5ufyAA_0Gp0XoY0x_A
+12-30 05:05:45: INFO : Added: _Z2THbUVbnHOHbyHa2YPbCDbcCfC.7z -- Category:  -- Type:  -- id: f-XaO0bEGK2goG_hOfVn5g
+12-30 05:05:45: INFO : Added: FuryouniHamerarete -- Category:  -- Type:  -- id: Ki-VJpE4527gEiFhoLTvCA
+12-30 05:05:45: INFO : Added: Mankitsu Happening -- Category:  -- Type:  -- id: Eba1u57ABXD7UE7GTEmxXg
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-30 05:13:37 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-30 05:30:38 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-30 05:45:36 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494c5dea0 object, fd=10, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Traceback (most recent call last):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 666, in handle_one_request
+    if not self.read_request(self.requestline):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 527, in read_request
+    raise _InvalidClientRequest('Expected GET method: %r' % (raw_requestline,))
+gevent.pywsgi._InvalidClientRequest: Expected GET method: '\x16\x03\x01\x00\x96\x01\x00\x00\x92\x03\x03F\x17\xadä\x99\x19¬g\x0f¡[\xadrn\xad\x14¤%½\xa0\x0ee;\x1a¶!\x84¼CÃ\x9bÆ\x00\x00&À+À/\x00\x9eÀ\n'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 569, in log_error
+    message = msg % args
+TypeError: not enough arguments for format string
+<gevent._socket3.socket at 0x7f94994ffef0 object, fd=10, family=2, type=1, proto=0>: "Expected GET method: '\\x16\\x03\\x01\\x00\\x96\\x01\\x00\\x00\\x92\\x03\\x03F\\x17\\xadä\\x99\\x19¬g\\x0f¡[\\xadrn\\xad\\x14¤%½\\xa0\\x0ee;\\x1a¶!\\x84¼CÃ\\x9bÆ\\x00\\x00&À+À/\\x00\\x9eÀ\\n'" ()
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-30 09:22:53 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-30 10:28:25 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-30 10:28:28 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f94994f8130 object, fd=10, family=2, type=1, proto=0>: Invalid HTTP method: '\x01\x01æ\n'
+12-30 19:26:24: INFO : Added: Maki-chan to Nau [Eng Sub][1080p Read Description] -- Category:  -- Type:  -- id: hNc49ev5TAln3R0OAnb-Fg
+<gevent._socket3.socket at 0x7f9494b8ddb0 object, fd=11, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b8ddb0 object, fd=11, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+12-31 01:54:41: INFO : Added: [sandoe41] Chichi-iro Toiki 01-02 [600p x265 Hi10 FLAC] -- Category:  -- Type:  -- id: 6P9I2W5xXWfnKUtthv4Tkw
+<gevent._socket3.socket at 0x7f9494b8d270 object, fd=11, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b8d270 object, fd=11, family=2, type=1, proto=0>: Invalid HTTP method: '\r\n'
+12-31 04:15:46: INFO : Added: Deus Machina Demonbane Zanmataisei Demonbane -- Category:  -- Type:  -- id: 8ldTZAlskRZ8-lYOkehbWQ
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 06:40:15 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 08:37:23 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 13:33:45 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 14:39:12 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 14:39:15 GMT)" skipped: maximum number of running instances reached (1)
+12-31 17:05:46: INFO : Added: upd199_TSUMAIG3.part3.rar -- Category:  -- Type:  -- id: 71Ek6jR2gPOZoErORvxn1w
+12-31 17:05:46: INFO : Added: upd199_TSUMAIG3.part5.rar -- Category:  -- Type:  -- id: mQaX1GttvS8ndPRFyKOxFQ
+12-31 17:05:46: INFO : Added: upd199_TSUMAIG3.part4.rar -- Category:  -- Type:  -- id: 1w0T9DXU2okpyEtf4qYDgA
+12-31 17:05:46: INFO : Added: upd199_TSUMAIG3.part2.rar -- Category:  -- Type:  -- id: Tn3-ljkm_XhE1buoaRMTsg
+12-31 17:05:46: INFO : Added: upd199_TSUMAIG3.part1.rar -- Category:  -- Type:  -- id: Lc-ZlNRP1BDRB2rEVBHWgw
+12-31 17:17:39: INFO : Added: [Eng-Sub] [SubDesu-H] Innocent Blue Ep.01-02 -- Category:  -- Type:  -- id: TqABaq7Mgfr_swj2hPrAgg
+12-31 17:18:50: INFO : Added: [PROcoders] Hitozuma Kasumi-San ep.1-2 en-jp uncen 1080 Neural restoration v1.1 -- Category:  -- Type:  -- id: IxeBdCFJA4VgeI7j7uIHfw
+12-31 17:39:55: INFO : Added: [Hen-Time] Oppai Life [DVD 576p] -- Category:  -- Type:  -- id: P2nqmExR8PoXZrDQX2-iXg
+12-31 17:44:14: INFO : Added: [RH] Aniyome wa Ijippari (Lover in Law) [Uncensored] [Dual Audio] [DVDRip] [Hi10] [480p] -- Category:  -- Type:  -- id: gRIuPGNuD4UqC433pFSjhw
+12-31 18:12:08: INFO : Added: [Eng-Sub] [Kira-H] Reijoku no Yakata - (House of 5 Lusts , ) Ep.01-02 [Uncensor] -- Category:  -- Type:  -- id: JIood0FK7hBNsYf7fuVOvw
+12-31 18:13:16: INFO : Added: [RH] Oppai no Ouja 48 Nanimo Kangaezu Me no Mae no Oppai Zenbu Shabure! (King of Breasts) [Uncensored] [BDRip] [Hi10] [1080p] -- Category:  -- Type:  -- id: MB7-K9W5arcGDMMpLPW1SQ
+12-31 18:14:23: INFO : Added: [Eng subs] [Suzuki Mirano] Renketsu Houshiki [01-03] -- Category:  -- Type:  -- id: DFyMc2LQHRDVPfHSzWuM0g
+12-31 18:25:27: INFO : Added: Tsugou no Yoi Sexfriend [720p][10bit][English Subbed] -- Category:  -- Type:  -- id: XYu8g7cLChqxwrE1qQ1PgQ
+12-31 18:27:39: INFO : Added: OPPAI Oppai Life - Episode 1 & 2 [Uncensored] [EngSub] HD720p -- Category:  -- Type:  -- id: Z0zGehCBe0aEgpSA7GRPHw
+12-31 18:29:11: INFO : Added: Reijoku no Yakata House of 5 Lusts [Ep.1-2] [RUS,JAP,ENG,GER] [720p] (2010, DVDRip) -- Category:  -- Type:  -- id: B6XR1VnqyjNdwUJ5D54LgA
+12-31 19:34:33: INFO : Added: maman.part1.rar -- Category:  -- Type:  -- id: s8lPrUed-3fbvq3eMg7F-g
+12-31 19:34:46: INFO : Added: maman.part2.rar -- Category:  -- Type:  -- id: mKpKTUKOsw_HjBX1tL-T8A
+12-31 19:37:00: INFO : Added: Download Heartful Maman rar -- Category:  -- Type:  -- id: blR6WRPkKoYbev57CskBjw
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 19:58:36 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 19:58:39 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:06:40 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:06:43 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:14:52 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:14:55 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:14:58 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:15:19 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494bd7310 object, fd=12, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:22:58 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:23:01 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:31:08 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:31:11 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:39:19 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:39:22 GMT)" skipped: maximum number of running instances reached (1)
+12-31 20:43:21: INFO : Added: Katainaka ni Totsui de Kita Russia Musume to H Shimakuru Ohanashi [2017-2018][540p-HEVC-WEBRip-V2][44 English Subbed] -- Category:  -- Type:  -- id: dGx2VacikAB83tC0mk0WfQ
+12-31 20:45:00: INFO : Added: Hitozuma Life One Time Gal ( ) [2017][720p-HEVC-WEBRip] -- Category:  -- Type:  -- id: lIcfpckOJ1PEBfzofzZZHA
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:47:27 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:47:30 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:47:33 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:47:48 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:55:34 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:55:37 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:55:56 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 20:55:59 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:03:48 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:03:54 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:11:58 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:12:01 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:20:07 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:20:10 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:28:19 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:28:22 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:28:25 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:28:46 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:36:31 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:36:34 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:36:37 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:36:58 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:44:40 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:44:43 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:44:46 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:45:07 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:52:45 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:52:48 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:52:51 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 21:53:06 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 22:00:59 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2020-12-31 22:01:02 GMT)" skipped: maximum number of running instances reached (1)
+12-31 23:23:57: INFO : Added: [HQR] Tsunpuri OVA [DVDRip 1280x720 h264 ac3] -- Category:  -- Type:  -- id: r3kcxWyN8Xjc6jxhfIYVPA
+12-31 23:28:32: INFO : Added: Harem Time The Animation -- Category:  -- Type:  -- id: siL8U3E1pBGxlM4C9wVsBw
+12-31 23:30:24: INFO : Added: Princess Lover! OVA (!) [BD 1280720 HEVC@Ma10p AC3] - English Softsubs -- Category:  -- Type:  -- id: Wu-gtu69qzNepTpbWBrwbA
+<gevent._socket3.socket at 0x7f949af9e130 object, fd=12, family=2, type=1, proto=0>: Invalid HTTP method: '\n'
+<gevent._socket3.socket at 0x7f949af9e130 object, fd=12, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94986480e0 object, fd=12, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=12, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94986480e0 object, fd=12, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-01 10:15:10 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-01 10:28:38 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494bb8f40 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ud\x90Tõ Â|õW\t\x122Z\x18wÅ[bvJ¸\x1f[cd\xad\x03|þ74\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-01 11:00:56 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-01 12:40:15 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-01 12:40:18 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f94985fc810 object, fd=13, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03çÇýüêZR½\x19^\xa0ÄqZ\x02wNÁÒ<.ø!b¬J¶\x06"³Z*\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-01 16:03:49 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f94985fc810 object, fd=13, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94985fc810 object, fd=13, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-02 06:03:11 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-02 08:37:07 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9497112e50 object, fd=13, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9497112e50 object, fd=13, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-02 18:24:21 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-02 18:24:24 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494bd7a40 object, fd=13, family=2, type=1, proto=0>: Expected GET method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03OÌ\rl¾¨È?s\n'
+01-03 02:57:26: INFO : Added: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] -- Category:  -- Type:  -- id: fyF7a_IE2bo9OHck99qaDA
+01-03 04:20:02: INFO : Added: Ura Jutaijima [720p][10bit][English Subbed] -- Category:  -- Type:  -- id: RfnILjeq-iqQx1EBBRqGSg
+01-03 04:23:20: INFO : Added: [SubDESU-H] (Cantaloupe Collector) Tsuma to Mama to Boin (HD Uncen, Dual audio, Eng subs) [01-02] -- Category:  -- Type:  -- id: YXFirY5jEJBiIgEQvOsJqg
+01-03 04:30:17: INFO : Added: Shoujo x Shoujo x Shoujo The Animation -- Category:  -- Type:  -- id: YwvVKIgm_Wmb7PUx7sg5uw
+01-03 04:32:56: INFO : Added: [Eng-Sub] [SubDesu-H] Shocking Pink! - ! Ep.01-02 -- Category:  -- Type:  -- id: Zcqg2Sbem5XLECDoKItDNA
+01-03 04:35:27: INFO : Added: Sailor Fuku Shinryou Tsumaka (ep. 1-2 of 2) [cen] [2011, DVDRip] [jap eng rus] -- Category:  -- Type:  -- id: yog1MTsjRZkQgqasrGXmkA
+01-03 04:41:29: INFO : Added: [HD] ! Ryou Seibai! Gakuen Bishoujo Seisai Hiroku (ep.1-2 of 2) [ENG RUS subs] -- Category:  -- Type:  -- id: KjvIdptTnT6tKua8ww93qg
+01-03 04:45:12: INFO : Added: 01 THE ANIMATION Rance 01 Hikari o Motomete The Animation [Ep.1-4 Extra] [RUS,JAP,CHI,ENG] [BD-1080p] (2014-2016) -- Category:  -- Type:  -- id: CXj4kNwF1hkdjx1im_92lQ
+01-03 04:47:03: INFO : Added: [RH] Rance 01 Hikari o Motomete (The Quest for Hikari) [BDRip] [Hi10] [1080p] -- Category:  -- Type:  -- id: m4J1mA_rL_AyVKBZTDNJOQ
+01-03 04:49:42: INFO : Added: Muttsuri Do Sukebe Ro Gibo Shimai no Honshitsu Minuite Sex Zanmai [Ep.1-2] [JAP,ENG,RUS,CHI](2018, DVDRip 720p) -- Category:  -- Type:  -- id: BQ4-4qNxFQ41N9b7AS0JkQ
+01-03 04:52:53: INFO : Added: [Eng Sub] Oni Chichi (2009-2016) [Batch] -- Category:  -- Type:  -- id: wJDR_mhMbWeNfMdRe5OQ_Q
+01-03 04:54:04: INFO : Added: ! Oide yo! Mizuryuu Kei Land [Ep.1-2] [JAP,ENG,RUS] (DVDRip, 2017) -- Category:  -- Type:  -- id: di0dwA-Tz2r7HUWWjg2suA
+01-03 04:57:45: INFO : Added: [HH] Nuki Doki! Tenshi to Akuma no Sakusei Battle & Revolution (Eng-Subs) [720p] (Complete) -- Category:  -- Type:  -- id: e7ioFdL5poW-l67wNeTWIQ
+01-03 05:03:36: INFO : Task: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] -- id: fyF7a_IE2bo9OHck99qaDA -- Category set to: default
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-03 05:03:38 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-03 05:03:39 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-03 05:03:40 GMT)" skipped: maximum number of running instances reached (1)
+01-03 05:03:40: INFO : def download_task started
+01-03 05:03:46: INFO : Downloading: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] -- id: fyF7a_IE2bo9OHck99qaDA
+01-03 05:03:46: INFO : for loop entered for downloading
+01-03 05:03:46: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E01 - Genesis.mkv
+01-03 05:03:46: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:03:46: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+01-03 05:10:21: INFO : Transfer completed, getting final stats
+01-03 05:10:21: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E01 - Genesis.mkv
+01-03 05:10:21: INFO : for loop entered for downloading
+01-03 05:10:21: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E02 - Survival Of The Fittest.mkv
+01-03 05:10:22: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:22: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+{}
+01-03 05:10:26: INFO : Transfer completed, getting final stats
+01-03 05:10:26: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E02 - Survival Of The Fittest.mkv
+01-03 05:10:26: INFO : for loop entered for downloading
+01-03 05:10:26: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E03 - Void-Sampling.mkv
+01-03 05:10:26: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:26: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:29: INFO : Transfer completed, getting final stats
+01-03 05:10:29: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E03 - Void-Sampling.mkv
+01-03 05:10:29: INFO : for loop entered for downloading
+01-03 05:10:29: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E04 - Flux.mkv
+01-03 05:10:29: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:29: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:31: INFO : Transfer completed, getting final stats
+01-03 05:10:31: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E04 - Flux.mkv
+01-03 05:10:31: INFO : for loop entered for downloading
+01-03 05:10:31: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E05 - A Preparation.mkv
+01-03 05:10:31: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:32: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:34: INFO : Transfer completed, getting final stats
+01-03 05:10:34: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E05 - A Preparation.mkv
+01-03 05:10:34: INFO : for loop entered for downloading
+01-03 05:10:34: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E06 - Leukocytes.mkv
+01-03 05:10:34: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:34: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:36: INFO : Transfer completed, getting final stats
+01-03 05:10:36: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E06 - Leukocytes.mkv
+01-03 05:10:36: INFO : for loop entered for downloading
+01-03 05:10:36: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E07 - Temptation.mkv
+01-03 05:10:36: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:36: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:39: INFO : Transfer completed, getting final stats
+01-03 05:10:39: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E07 - Temptation.mkv
+01-03 05:10:39: INFO : for loop entered for downloading
+01-03 05:10:39: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E08 - Courtship Behavior.mkv
+01-03 05:10:39: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:39: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:41: INFO : Transfer completed, getting final stats
+01-03 05:10:41: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E08 - Courtship Behavior.mkv
+01-03 05:10:41: INFO : for loop entered for downloading
+01-03 05:10:41: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E09 - Prey.mkv
+01-03 05:10:41: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:42: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:44: INFO : Transfer completed, getting final stats
+01-03 05:10:44: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E09 - Prey.mkv
+01-03 05:10:44: INFO : for loop entered for downloading
+01-03 05:10:44: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E10 - Retraction.mkv
+01-03 05:10:44: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:44: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:46: INFO : Transfer completed, getting final stats
+01-03 05:10:46: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E10 - Retraction.mkv
+01-03 05:10:46: INFO : for loop entered for downloading
+01-03 05:10:46: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E11 - Resonance.mkv
+01-03 05:10:46: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:46: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:48: INFO : Transfer completed, getting final stats
+01-03 05:10:48: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E11 - Resonance.mkv
+01-03 05:10:48: INFO : for loop entered for downloading
+01-03 05:10:48: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E12 - The Lost Christmas.mkv
+01-03 05:10:48: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:49: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:51: INFO : Transfer completed, getting final stats
+01-03 05:10:51: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E12 - The Lost Christmas.mkv
+01-03 05:10:51: INFO : for loop entered for downloading
+01-03 05:10:51: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E13 - Isolation.mkv
+01-03 05:10:51: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:51: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:53: INFO : Transfer completed, getting final stats
+01-03 05:10:53: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E13 - Isolation.mkv
+01-03 05:10:53: INFO : for loop entered for downloading
+01-03 05:10:53: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E14 - Election.mkv
+01-03 05:10:53: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:54: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:56: INFO : Transfer completed, getting final stats
+01-03 05:10:56: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E14 - Election.mkv
+01-03 05:10:56: INFO : for loop entered for downloading
+01-03 05:10:56: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E15 - Sacrifice.mkv
+01-03 05:10:56: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:56: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:10:58: INFO : Transfer completed, getting final stats
+01-03 05:10:58: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E15 - Sacrifice.mkv
+01-03 05:10:58: INFO : for loop entered for downloading
+01-03 05:10:58: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E16 - The Tyrant.mkv
+01-03 05:10:58: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:10:59: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:01: INFO : Transfer completed, getting final stats
+01-03 05:11:01: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E16 - The Tyrant.mkv
+01-03 05:11:01: INFO : for loop entered for downloading
+01-03 05:11:01: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E17 - Exodus.mkv
+01-03 05:11:01: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:01: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:03: INFO : Transfer completed, getting final stats
+01-03 05:11:03: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E17 - Exodus.mkv
+01-03 05:11:03: INFO : for loop entered for downloading
+01-03 05:11:03: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E18 - Dear....mkv
+01-03 05:11:03: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:04: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:06: INFO : Transfer completed, getting final stats
+01-03 05:11:06: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E18 - Dear....mkv
+01-03 05:11:06: INFO : for loop entered for downloading
+01-03 05:11:06: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E19 - Rebirth.mkv
+01-03 05:11:06: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:06: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:08: INFO : Transfer completed, getting final stats
+01-03 05:11:08: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E19 - Rebirth.mkv
+01-03 05:11:08: INFO : for loop entered for downloading
+01-03 05:11:08: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E20 - A Diary.mkv
+01-03 05:11:08: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:08: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:11: INFO : Transfer completed, getting final stats
+01-03 05:11:11: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E20 - A Diary.mkv
+01-03 05:11:11: INFO : for loop entered for downloading
+01-03 05:11:11: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E21 - Emergence.mkv
+01-03 05:11:11: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:11: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:13: INFO : Transfer completed, getting final stats
+01-03 05:11:13: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E21 - Emergence.mkv
+01-03 05:11:13: INFO : for loop entered for downloading
+01-03 05:11:13: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E22 - Convergence.mkv
+01-03 05:11:13: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:13: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:15: INFO : Transfer completed, getting final stats
+01-03 05:11:15: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Season 1/Guilty Crown - S01E22 - Convergence.mkv
+01-03 05:11:15: INFO : for loop entered for downloading
+01-03 05:11:15: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Specials/Guilty Crown - S00E02 - Lost Christmas.mkv
+01-03 05:11:15: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:15: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:18: INFO : Transfer completed, getting final stats
+01-03 05:11:18: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/Specials/Guilty Crown - S00E02 - Lost Christmas.mkv
+01-03 05:11:18: INFO : for loop entered for downloading
+01-03 05:11:18: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart0.jpg
+01-03 05:11:18: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:18: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:20: INFO : Transfer completed, getting final stats
+01-03 05:11:20: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart0.jpg
+01-03 05:11:20: INFO : for loop entered for downloading
+01-03 05:11:20: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart1.jpg
+01-03 05:11:20: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:20: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:22: INFO : Transfer completed, getting final stats
+01-03 05:11:23: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart1.jpg
+01-03 05:11:23: INFO : for loop entered for downloading
+01-03 05:11:23: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart2.jpg
+01-03 05:11:23: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:23: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:25: INFO : Transfer completed, getting final stats
+01-03 05:11:25: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart2.jpg
+01-03 05:11:25: INFO : for loop entered for downloading
+01-03 05:11:25: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart3.jpg
+01-03 05:11:25: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:25: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:28: INFO : Transfer completed, getting final stats
+01-03 05:11:28: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart3.jpg
+01-03 05:11:28: INFO : for loop entered for downloading
+01-03 05:11:28: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart4.jpg
+01-03 05:11:28: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:28: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:30: INFO : Transfer completed, getting final stats
+01-03 05:11:30: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart4.jpg
+01-03 05:11:30: INFO : for loop entered for downloading
+01-03 05:11:30: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart5.jpg
+01-03 05:11:30: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:31: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:33: INFO : Transfer completed, getting final stats
+01-03 05:11:33: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart5.jpg
+01-03 05:11:33: INFO : for loop entered for downloading
+01-03 05:11:33: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart6.jpg
+01-03 05:11:33: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:33: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:36: INFO : Transfer completed, getting final stats
+01-03 05:11:36: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart6.jpg
+01-03 05:11:36: INFO : for loop entered for downloading
+01-03 05:11:36: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart7.jpg
+01-03 05:11:36: INFO : Starting rclone copy of: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] id: fyF7a_IE2bo9OHck99qaDA with category: default 
+01-03 05:11:36: INFO : rclone rc sync/copy srcFs=premiumize:"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" dstFs=gcrypt:default/"[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]" --use-mmap --timeout 5h
+{}
+{}
+01-03 05:11:38: INFO : Transfer completed, getting final stats
+01-03 05:11:38: INFO : Finished downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/extrafanart/fanart7.jpg
+01-03 05:11:38: INFO : for loop entered for downloading
+01-03 05:11:38: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/banner.jpg
+01-03 05:11:38: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/banner.jpg
+01-03 05:11:38: INFO : for loop entered for downloading
+01-03 05:11:38: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/fanart.jpg
+01-03 05:11:38: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/fanart.jpg
+01-03 05:11:38: INFO : for loop entered for downloading
+01-03 05:11:38: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/poster.jpg
+01-03 05:11:38: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/poster.jpg
+01-03 05:11:38: INFO : for loop entered for downloading
+01-03 05:11:38: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/season-specials-poster.jpg
+01-03 05:11:38: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/season-specials-poster.jpg
+01-03 05:11:38: INFO : for loop entered for downloading
+01-03 05:11:38: INFO : Downloading file: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/season01-poster.jpg
+01-03 05:11:38: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]/season01-poster.jpg
+01-03 05:11:38: INFO : Download finished: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] -- id: fyF7a_IE2bo9OHck99qaDA -- info: 10.94 GB --  1 kB/s --  4y1w5d2h28m20s -- location: /mnt/GDrive/default/[Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio]
+01-03 06:02:01: INFO : Deleted from the cloud: [Tenrai-Sensei] Guilty Crown [BD][1080p][HEVC 10bit x265][Dual Audio] -- id: fyF7a_IE2bo9OHck99qaDA
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 06:19:18 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 06:34:45 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494bb8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b86bd0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 10:22:04 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494bb8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-03 16:17:32: INFO : Added: [HQR] Mesu Nochi Torare OVA [DVDRip 1280x720 h264 ac3] -- Category:  -- Type:  -- id: 7kyje9gvVCCh81roSp_yHQ
+01-03 16:17:52: INFO : Added: Koikishi Purely Kiss - PurelyKiss The Animation - EPISODES 1-2 [BD] [Sub-Eng] [Res1080p] -- Category:  -- Type:  -- id: xFw0tWjrhXeXb0ZkeM0oeg
+01-03 16:20:39: INFO : Added: [h.ero-raw] Kininaru Roommate - 01-02 (complete, uncensored)[540p HEVC] -- Category:  -- Type:  -- id: thwmOeoXyL2nZVS1eS7TeA
+01-03 16:22:09: INFO : Added: Kateikyoushi no Onee-san The Animation H no Hensachi Agechaimasu -- Category:  -- Type:  -- id: gsBeG8-KScdHC4HutVDMWA
+01-03 16:24:08: INFO : Added: 2 Kansen 2 Inzai Toshi [720p][10bit][English Subbed] -- Category:  -- Type:  -- id: jqpNg9_T2KE9AcyzDKvp6Q
+01-03 16:27:53: INFO : Added: Kanojo x Kanojo x Kanojo [BD][720p][HEVC][10bit][Uncen][English Subbed] -- Category:  -- Type:  -- id: Cj7QIORWVFEHxwKyA0jmKA
+01-03 16:28:22: INFO : Added: (18)() KAKUSHI DERE ep 01-03 uncen (BD Hi10P 1920x1080 WV) [QTS] -- Category:  -- Type:  -- id: vyf81cYbvLfLAM3DBbPvFQ
+01-03 16:29:34: INFO : Added: Kakushi Dere (1-3 Bonus) [ENG SUBS] [Dual-Audio] [BD 1920x1080 AVC 10bit] [Uncensored] -- Category:  -- Type:  -- id: rR6fsSkvExwx-uyfXJSFWA
+01-03 16:31:23: INFO : Added: [EROBEAT] Junj -- Category:  -- Type:  -- id: c8P90FxblFSFtPmvCdoHmA
+01-03 16:31:32: INFO : Added: [OppaiSubs] Junjou Shoujo Et Cetera (Bonus Scenes) [DVD 480p Hi10P AC3] (English Soft Sub) -- Category:  -- Type:  -- id: TDkGddKfnALJFb_PMmHRfQ
+01-03 16:32:38: INFO : Added: JKJK to Ero Konbini Tenchou [720p][10bit][English Subbed] -- Category:  -- Type:  -- id: NEfMHpaF2NQpm4v-42rxzQ
+01-03 16:34:25: INFO : Added: Jitaku Keibiin [Ep.1-4] [JAP] (DVDRip, 2017) -- Category:  -- Type:  -- id: zAKRvUO753rUVQTifxldew
+01-03 16:36:45: INFO : Added: [SakuraCircle] Hitozuma, Mitsu to Niku - 04 (DVD 720x480 h264 AAC) [964CA654].mkv -- Category:  -- Type:  -- id: ID3TJfEcooPGHAvC1a4k-w
+01-03 16:36:52: INFO : Added: [SakuraCircle] Hitozuma, Mitsu to Niku - 03 ( ) - English Softsubs -- Category:  -- Type:  -- id: qxhBxNSrsBgfBEjC7nyWRQ
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 16:37:01 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 16:37:04 GMT)" skipped: maximum number of running instances reached (1)
+01-03 16:37:46: INFO : Added: Hime-sama Love Life! -- Category:  -- Type:  -- id: YGuheKLqrifzCHyeH1mo1g
+01-03 16:39:19: INFO : Added: E -- Category:  -- Type:  -- id: ihonEUZ0E1VcbzhMvGvfow
+01-03 16:41:00: INFO : Added: [RH] Furueru Kuchibiru [Uncensored] [Dual Audio] [BDRip] [Hi10] [1080p] (Fuzzy Lips ) -- Category:  -- Type:  -- id: ClOMQ2D4vx-AgYMzk67UuA
+01-03 16:41:53: INFO : Added: [SubDESU-H] [PoRO] Fukubiki! Triangle Miharu After [01-02] -- Category:  -- Type:  -- id: gllnYcyZK8W-jvIGE7UrzA
+01-03 16:42:33: INFO : Added: Eromanga Mitai na Koi Shiyo (Lets Fall in Love The Ero-manga) [Engsub] -- Category:  -- Type:  -- id: ilV6ZW22b-vqMnGaYmRwgg
+01-03 16:43:52: INFO : Added: ! H Ero Manga! H mo Manga mo Step-up (ep. 1-2 of 2) [cen] [2015, DVDRip] [jap eng chi] -- Category:  -- Type:  -- id: EIGUpLmtnDFj6OA1iYRgMg
+01-03 16:44:15: INFO : Added: Ero Konbini Tenchou -- Category:  -- Type:  -- id: yLhtc2FsAzSftnAP7JO4Vg
+01-03 16:45:00: INFO : Added: Elf no Oshiego to Sensei [720p][10bit][English Subbed] -- Category:  -- Type:  -- id: h8_9nOUj7iWLoFu3kHCwPw
+01-03 16:45:27: INFO : Added: [HH] Slave Nurses Dorei Kaigo 01-03 (720p, AAC, Uncensored) -- Category:  -- Type:  -- id: ErWueQFg1w23xA8GZ3ym7A
+01-03 16:49:42: INFO : Added: [FH] Do S 01.rar -- Category:  -- Type:  -- id: ZZjNXrd-_QjZj5IoXtPvJA
+01-03 16:49:52: INFO : Added: [FH] Do S 03.rar -- Category:  -- Type:  -- id: 0g8Vquivdud56fgEh6wX0Q
+01-03 16:50:02: INFO : Added: [FH] Do S 04.rar -- Category:  -- Type:  -- id: kFD7wB7CyJiFog0H0ymiZA
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 17:29:05 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 17:29:08 GMT)" skipped: maximum number of running instances reached (1)
+01-03 17:32:44: INFO : Added: [SakuraCircle] Chiisana Tsubomi no Sono Oku ni... - 02 (DVD 720x480 h264 AAC) [C6320E72].mkv -- Category:  -- Type:  -- id: 6KZiNLzX-E_-qW7FH2gkeg
+01-03 17:34:45: INFO : Added: [Eng-Sub] [HH] Boku no Yayoi-san - Ep.01-04 -- Category:  -- Type:  -- id: CW0NFHQMda6tRtv-joputQ
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-03 17:37:55 GMT)" skipped: maximum number of running instances reached (1)
+01-03 21:27:18: INFO : Added: DigiDNA iMazing 2.13.1 Multilingual [johdrxrt] -- Category:  -- Type:  -- id: 7x-1ydAl7onEqs58CTPabA
+<gevent._socket3.socket at 0x7f949863cd60 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-04 05:05:04 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-04 05:05:07 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494c08bd0 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03|\x82ª|+ï\x0e\x08\x96Kß@\x0fZ\r±Í\x0c&ÃÜlmJ[±¼;\x80säÚ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x01\x01æ\n'
+<gevent._socket3.socket at 0x7f9494c81450 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=14, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03n¾·¼û<û´3A\x03$>ìl\rxÞÏ\x11£^ôT\x98Y_]ADå«\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494c81c70 object, fd=14, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03c\x01xS¯\x9bigp\x80\x89¼sÓ\x1c3,N}x{<áb©c\x99\x12E\x97¹à\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+01-04 17:58:44: INFO : Added: [Sangen-Rips] -- Category:  -- Type:  -- id: UuVbcIYj2Y2uBRLke2kvVw
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-04 18:59:13 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-04 22:32:23 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-04 22:32:26 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 03:57:18 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 07:27:58 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 09:26:53 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:05 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:08 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:11 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:17 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:20 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:23 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:26 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:29 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:35 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:38 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:41 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:47 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 10:08:50 GMT)" skipped: maximum number of running instances reached (1)
+01-05 10:08:52: ERROR : premiumize.me error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>www.premiumize.me | 525: SSL handshake failed</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">525</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 60cc6683cb9742e9 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-01-05 10:08:52 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">SSL handshake failed</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Los Angeles</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">www.premiumize.me</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>Cloudflare is unable to establish an SSL connection to the origin server.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
+      <p><span>It appears that the SSL configuration used is not compatible with Cloudflare. This could happen for a several reasons, including no shared cipher suites.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200278659">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">60cc6683cb9742e9</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 23.234.197.97</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+01-05 10:14:42: ERROR : premiumize.me error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>www.premiumize.me | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">520</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 60cc6f10bfe898cf &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-01-05 10:14:42 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Web server is returning an unknown error</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Los Angeles</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">www.premiumize.me</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">60cc6f10bfe898cf</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 23.234.197.97</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+01-05 10:20:27: ERROR : premiumize.me error:  
+01-05 10:26:18: ERROR : premiumize.me error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>www.premiumize.me | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">520</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 60cc800c280f35ec &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-01-05 10:26:18 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Web server is returning an unknown error</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Los Angeles</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">www.premiumize.me</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">60cc800c280f35ec</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 23.234.197.97</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+01-05 10:31:59: ERROR : premiumize.me error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>www.premiumize.me | 520: Web server is returning an unknown error</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">520</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 60cc88600a4304d4 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-01-05 10:31:59 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">Web server is returning an unknown error</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Los Angeles</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">www.premiumize.me</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>There is an unknown connection issue between Cloudflare and the origin web server. As a result, the web page can not be displayed.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you are a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you are the owner of this website:</h3>
+      <p><span>There is an issue between Cloudflare's cache and your origin web server. Cloudflare monitors for these errors and automatically investigates the cause. To help support the investigation, you can pull the corresponding error log from your web server and submit it our support team.  Please include the Ray ID (which is at the bottom of this error page).</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200171936-Error-520">Additional troubleshooting resources</a>.</p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">60cc88600a4304d4</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 23.234.197.97</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+01-05 10:37:49: ERROR : premiumize.me error:  
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:02 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:05 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:08 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:17 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:20 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:23 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:26 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:29 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:32 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:35 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 12:39:38 GMT)" skipped: maximum number of running instances reached (1)
+01-05 12:39:39: ERROR : premiumize.me error: <!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en-US"> <!--<![endif]-->
+<head>
+
+
+<title>www.premiumize.me | 525: SSL handshake failed</title>
+<meta charset="UTF-8" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1" />
+<meta name="robots" content="noindex, nofollow" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<link rel="stylesheet" id="cf_styles-css" href="/cdn-cgi/styles/main.css" type="text/css" media="screen,projection" />
+
+
+</head>
+<body>
+<div id="cf-wrapper">
+
+    
+
+    <div id="cf-error-details" class="p-0">
+        <header class="mx-auto pt-10 lg:pt-6 lg:px-8 w-240 lg:w-full mb-8">
+            <h1 class="inline-block sm:block sm:mb-2 font-light text-60 lg:text-4xl text-black-dark leading-tight mr-2">
+              
+              <span class="cf-error-type">Error</span>
+              <span class="cf-error-code">525</span>
+            </h1>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">Ray ID: 60cd43662b22e506 &bull;</span>
+            <span class="inline-block sm:block font-mono text-15 lg:text-sm lg:leading-relaxed">2021-01-05 12:39:39 UTC</span>
+            <h2 class="text-gray-600 leading-1.3 text-3xl font-light">SSL handshake failed</h2>
+        </header>
+        
+        <div class="my-8 bg-gradient-gray">
+            <div class="w-240 lg:w-full mx-auto">
+                <div class="clearfix md:px-8">
+                  
+<div id="cf-browser-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-browser block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">You</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Browser</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-cloudflare-status" class=" relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-cloud block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-ok w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">Los Angeles</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Cloudflare</h3>
+  <span class="leading-1.3 text-2xl text-green-success">Working</span>
+</div>
+
+<div id="cf-host-status" class="cf-error-source relative w-1/3 md:w-full py-15 md:p-0 md:py-8 md:text-left md:border-solid md:border-0 md:border-b md:border-gray-400 overflow-hidden float-left md:float-none text-center">
+  <div class="relative mb-10 md:m-0">
+    <span class="cf-icon-server block md:hidden h-20 bg-center bg-no-repeat"></span>
+    <span class="cf-icon-error w-12 h-12 absolute left-1/2 md:left-auto md:right-0 md:top-0 -ml-6 -bottom-4"></span>
+  </div>
+  <span class="md:block w-full truncate">www.premiumize.me</span>
+  <h3 class="md:inline-block mt-3 md:mt-0 text-2xl text-gray-600 font-light leading-1.3">Host</h3>
+  <span class="leading-1.3 text-2xl text-red-error">Error</span>
+</div>
+
+                </div>
+              
+            </div>
+        </div>
+
+        <div class="w-240 lg:w-full mx-auto mb-8 lg:px-8">
+            <div class="clearfix">
+                <div class="w-1/2 md:w-full float-left pr-6 md:pb-10 md:pr-0 leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What happened?</h2>
+                    <p>Cloudflare is unable to establish an SSL connection to the origin server.</p>
+                </div>
+              
+                <div class="w-1/2 md:w-full float-left leading-relaxed">
+                    <h2 class="text-3xl font-normal leading-1.3 mb-4">What can I do?</h2>
+                          <h3 class="text-15 font-semibold mb-2">If you're a visitor of this website:</h3>
+      <p class="mb-6">Please try again in a few minutes.</p>
+
+      <h3 class="text-15 font-semibold mb-2">If you're the owner of this website:</h3>
+      <p><span>It appears that the SSL configuration used is not compatible with Cloudflare. This could happen for a several reasons, including no shared cipher suites.</span> <a rel="noopener noreferrer" href="https://support.cloudflare.com/hc/en-us/articles/200278659">Additional troubleshooting information here.</a></p>
+                </div>
+            </div>
+              
+        </div>
+
+        <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+  <p class="text-13">
+    <span class="cf-footer-item sm:block sm:mb-1">Cloudflare Ray ID: <strong class="font-semibold">60cd43662b22e506</strong></span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Your IP</span>: 23.234.197.97</span>
+    <span class="cf-footer-separator sm:hidden">&bull;</span>
+    <span class="cf-footer-item sm:block sm:mb-1"><span>Performance &amp; security by</span> <a rel="noopener noreferrer" href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" target="_blank">Cloudflare</a></span>
+    
+  </p>
+</div><!-- /.error-footer -->
+
+
+    </div>
+</div>
+</body>
+</html>
+
+
+<gevent._socket3.socket at 0x7f9494b8dea0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b8dea0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-05 16:12:08: INFO : Added: [sandoe41] Chichi-iro Toiki 01-02 [600p x265 Hi10 FLAC] -- Category:  -- Type:  -- id: t_uFyg4pkfp7k7jUeA5Adw
+01-05 16:13:56: INFO : Added: Anata dake Konbanwa (Uncensored version complete) [Eng subs] 60fps -- Category:  -- Type:  -- id: sb0d_huwP6CLejZpQ6o8fg
+<gevent._socket3.socket at 0x7f9494b86ea0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e30e0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-05 23:52:57 GMT)" skipped: maximum number of running instances reached (1)
+01-06 00:44:35: INFO : Added: Kanojo x Kanojo x Kanojo San Shimai to no Dokidoki Kyoudou Seikatsu -- Category:  -- Type:  -- id: gGQNgJsVHQZb0A0ykfG61A
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 03:46:51 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:19 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:22 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:25 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:31 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:34 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:37 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:40 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:43 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:46 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:52 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:55 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:36:58 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 08:37:01 GMT)" skipped: maximum number of running instances reached (1)
+01-06 08:37:07: ERROR : premiumize.me error:  
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:41:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:41:17 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:41:20 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:41:32 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:41:35 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:41:44 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:43:53 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:43:56 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:46:49 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:46:52 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:46:55 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 14:47:07 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494c81270 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:16:11 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:16:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:17:00 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:17:03 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:17:51 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:17:54 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:18:22 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:18:25 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:19:34 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:19:37 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:21:04 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:21:07 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:21:40 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:21:43 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:22:36 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:22:39 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:23:37 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:23:40 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:24:27 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:24:30 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:24:33 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:24:45 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:25:54 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:25:57 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:26:00 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:26:09 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:27:38 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:27:41 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:28:21 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:28:24 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:29:50 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:29:53 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:30:20 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:30:23 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:31:20 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:31:29 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:31:32 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:31:50 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:32:18 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:32:21 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:35:15 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:35:18 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:02 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:05 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:08 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:23 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:26 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:32 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:35 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:56 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:36:59 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:37:17 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:37:20 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:37:50 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:37:53 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:38:05 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:38:08 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:38:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:38:17 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-06 15:38:32 GMT)" skipped: maximum number of running instances reached (1)
+01-06 15:38:52: ERROR : premiumize.me error:  
+<gevent._socket3.socket at 0x7f9494ba2e00 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\r\n'
+<gevent._socket3.socket at 0x7f94994f8130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x16\x03\x01\x01"\x01\x00\x01\x1e\x03\x03\x83?\x9bòÙó?ü¬ïSüê\x0f\x9f\x04²¨Z\x11áÌË¶u.\x00ø.\x86P\x1a\x00\x00\x88À0À,À(À$À\x14À\n'
+<gevent._socket3.socket at 0x7f94994f8130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x16\x03\x01\x01"\x01\x00\x01\x1e\x03\x03ë\x9f9á\x84J\x17¸5Ã`¸v]G\x8e1ÃNÝ=ÕR\x88Ð\x02YW!ÖÝÍ\x00\x00\x88À0À,À(À$À\x14À\n'
+Traceback (most recent call last):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 666, in handle_one_request
+    if not self.read_request(self.requestline):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 527, in read_request
+    raise _InvalidClientRequest('Expected GET method: %r' % (raw_requestline,))
+gevent.pywsgi._InvalidClientRequest: Expected GET method: '\x16\x03\x01\x00Æ\x01\x00\x00Â\x03\x02¿O¾C9$%à\x11Ø\x18Û)Üµ"\t7N\x15\x13]2ÒKB{Êuº8å\x00\x00PÀ\x14À\n'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 569, in log_error
+    message = msg % args
+TypeError: not enough arguments for format string
+<gevent._socket3.socket at 0x7f94994f8130 object, fd=14, family=2, type=1, proto=0>: 'Expected GET method: \'\\x16\\x03\\x01\\x00Æ\\x01\\x00\\x00Â\\x03\\x02¿O¾C9$%à\\x11Ø\\x18Û)Üµ"\\t7N\\x15\\x13]2ÒKB{Êuº8å\\x00\\x00PÀ\\x14À\\n\'' ()
+<gevent._socket3.socket at 0x7f94973dc8b0 object, fd=14, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00Æ\x01\x00\x00Â\x03\x01B"ñ¾à!\x10B\x8fú"b&\t\x82å´éôçJõþÎs\x9fw7\r·\xade\x00\x00PÀ\x14À\n'
+<gevent._socket3.socket at 0x7f94994f8130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494b8dbd0 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¶\x82 ®!kª\x19¿\x88ùGDV\x03¿\x8c\x04\x8f\rM>qX\x8béADÄ¬2\x9c\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494b8d3b0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-07 04:52:59 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-07 23:53:57 GMT)" skipped: maximum number of running instances reached (1)
+01-08 01:51:44: INFO : Added: [SakuraCircle] Himawari wa Yoru ni Saku (OVA) - English Softsubs -- Category:  -- Type:  -- id: Fj09Q1RDxzlTrlaZVVg3Uw
+01-08 01:52:16: INFO : Added: Ajisai no Chiru Koro ni (OVA ) [2021][720p-HEVC-WEBRip][11 English Subbed] -- Category:  -- Type:  -- id: 40bO1_uEbOEXIv4E1MPe-g
+<gevent._socket3.socket at 0x7f9494bd7270 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-08 04:24:49 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-08 04:40:47 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-08 04:40:50 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-08 05:31:51 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f94973dc8b0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94985fca90 object, fd=14, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03î,\x83¦\x88Ê\x1a\x9a7-\x88|}áS\x03½È¿äÒä\x85ÍáËðfj{\x10"\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+01-09 00:23:29: INFO : Added: [QTS] Amai Choubatsu Watashi wa Kanshu Senyou Pet Complete Edition ep 01-12 (BD H264 1280x720 AAC) -- Category:  -- Type:  -- id: D2NQUCQUFdP0J8ztqX_QKQ
+01-09 01:16:00: INFO : Added: [Aomori-Raws] -- Category:  -- Type:  -- id: y3Xq8K0ro7Hy3vLdv2dipg
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\xad\x9d\x89`\x86 \x11\x17°\x0bÜ©¯`@9g:\x7f5BtÕHañÒ;øã\x07¹\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f94973e3180 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494ba2ef0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-10 19:11:57: INFO : Added: Souryo to Majiwa -- Category:  -- Type:  -- id: Go9LhAUhH7IlIEq3UTNYmw
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-11 05:32:21: INFO : Added: [HH] Lovely x Cation & Pretty x Cation 1-2 The Animation (Eng-Subs) [720p] (Complete) -- Category:  -- Type:  -- id: a1WMoqJAP67UAzzySVpNGw
+01-11 05:33:06: INFO : Added: [Eng-Sub] [Erobeat] Haramasete Seiryuu-Kun! - ( !) Ep.01-02 -- Category:  -- Type:  -- id: POeIc6CPPW81bsBbE8AsKw
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b86d10 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+<gevent._socket3.socket at 0x7f94973ca3b0 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b86cc0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ß\x11é?\x96Õ\x02=É·;dÉÛÏ\x9742á/\x08r¢µ>øP7\x9b8ÅÛ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494b86d10 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x91)\x93¯àE\x0f\x1f}Ðl\x066¢üÊ\x8bä]WT\x0cûClÞ/H\t\x08W+\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03S!8\x8aÅST9\x9bö«0\x98E-\x0bô\x84«.m\x03ohÏ\x8a\x1e\x85K\x81=y\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494b86d10 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c08db0 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9496ee99a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c08b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f949851d9a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee99a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94985fca90 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94985fca90 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ed8c70 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94985fca90 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: "\x16\x03\x01\x00{\x01\x00\x00w\x03\x03'ü,\x02\x97æû\x01ç\x11\x85\x9abATÍÞÂ·Þ\x01íÑÚÿz)a\x92\x0c\x99È\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n"
+<gevent._socket3.socket at 0x7f9494ba2720 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f949af9e130 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9496ee99a0 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\r\n'
+<gevent._socket3.socket at 0x7f949af9e130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494ba25e0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee99a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f949851d9a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¦2øºjµ`\x1c®\x99Ç\x11N¨Ý\x0bkPjéù\x1d¦\x1bï8Yÿ\xa0ñOn\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x0f¾M\x82½\x9aÐù\rVÛ\x10Wvú}sæq\x16_Öé*\x12:ªéô!{Û\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494ba2ef0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f949851d9a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f949af9e130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=eltons\r\n"
+<gevent._socket3.socket at 0x7f949af9e130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
