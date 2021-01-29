@@ -1403,6 +1403,7 @@ def download_file():
                 #else:
                     #dstFs=" dstFs=gcrypt:" + greenlet.task.category
 
+                dstFs=" dstFs=gcrypt:" + greenlet.task.category
                 # if we are just transferring a single file
                 if greenlet.task.file_id:
                     r = prem_connection(

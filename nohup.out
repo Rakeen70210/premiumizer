@@ -1987,3 +1987,98 @@ Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 15
 01-29 15:50:08: INFO : Starting rclone copy of: Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: bqI8zeO5R8AiFVOMqynuhg with category: default 
 01-29 15:50:08: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
 {}
+{}
+01-29 15:51:56: INFO : Transfer completed, getting final stats
+01-29 15:51:56: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S05E04.Opportunity.Zone.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:51:56: INFO : Download finished: Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: bqI8zeO5R8AiFVOMqynuhg -- info: 1.04 GB --  423 B/s --  1y2d10h45m42s -- location: /mnt/GDrive/default/Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 16:35:08: INFO : Deleted from the cloud: Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: F0zOnaFgooNI98SoIg-VZQ
+01-29 16:37:00: INFO : Deleted from the cloud: Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: bqI8zeO5R8AiFVOMqynuhg
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 16:41:28 GMT)" skipped: maximum number of running instances reached (1)
+01-29 16:41:28: INFO : def download_task started
+01-29 16:41:29: INFO : Downloading: Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: REnqgCziZ7vW4KXAdgLCiw
+01-29 16:41:29: INFO : for loop entered for downloading
+01-29 16:41:29: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E01.Risk.Management.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:41:29: INFO : Starting rclone copy of: Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: REnqgCziZ7vW4KXAdgLCiw with category: default 
+01-29 16:41:29: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+01-29 16:47:00: INFO : Transfer completed, getting final stats
+01-29 16:47:00: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E01.Risk.Management.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:00: INFO : for loop entered for downloading
+01-29 16:47:00: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E02.Dead.Cat.Bounce.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+{}
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E02.Dead.Cat.Bounce.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E03.Optimal.Play.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E03.Optimal.Play.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E04.The.Oath.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E04.The.Oath.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E05.Currency.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E05.Currency.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E06.Indian.Four.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E06.Indian.Four.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E07.Victory.Lap.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E07.Victory.Lap.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E08.The.Kingmaker.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E08.The.Kingmaker.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E09.Sic.Transit.Imperium.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E09.Sic.Transit.Imperium.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E10.With.or.Without.You.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E10.With.or.Without.You.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E11.Golden.Frog.Time.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E11.Golden.Frog.Time.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : for loop entered for downloading
+01-29 16:47:01: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E12.Ball.in.Hand.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : File not downloaded it already exists at: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S02E12.Ball.in.Hand.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 16:47:01: INFO : Download finished: Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: REnqgCziZ7vW4KXAdgLCiw -- info: 12.29 GB --  5 kB/s --  1y2d11h40m46s -- location: /mnt/GDrive/default/Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 17:03:43: INFO : Added: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- Category:  -- Type:  -- id: 6kFT1EXKNvO7byudkNSBaA
+01-29 17:05:30: INFO : Task: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- id: 6kFT1EXKNvO7byudkNSBaA -- Category set to: default
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-29 17:05:32 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-29 17:05:33 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-29 17:05:34 GMT)" skipped: maximum number of running instances reached (1)
+01-29 17:05:34: INFO : def download_task started
+01-29 17:05:34: INFO : Downloading: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- id: 6kFT1EXKNvO7byudkNSBaA
+01-29 17:05:34: INFO : for loop entered for downloading
+01-29 17:05:34: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E09.Where.the.Fuck.is.Donnie.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:05:34: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: 6kFT1EXKNvO7byudkNSBaA with category: default 
+01-29 17:05:35: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+{}
+01-29 17:05:45: INFO : Transfer completed, getting final stats
+01-29 17:05:45: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E09.Where.the.Fuck.is.Donnie.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:05:45: INFO : for loop entered for downloading
+01-29 17:05:45: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E10.Quality.of.Life.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:05:45: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: 6kFT1EXKNvO7byudkNSBaA with category: default 
+01-29 17:05:45: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+{}
+01-29 17:05:55: INFO : Transfer completed, getting final stats
+01-29 17:05:56: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E10.Quality.of.Life.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:05:56: INFO : for loop entered for downloading
+01-29 17:05:56: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E11.Magical.Thinking.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:05:56: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: 6kFT1EXKNvO7byudkNSBaA with category: default 
+01-29 17:05:56: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+{}
+01-29 17:06:06: INFO : Transfer completed, getting final stats
+01-29 17:06:06: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E11.Magical.Thinking.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:06:06: INFO : for loop entered for downloading
+01-29 17:06:06: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E12.The.Conversation.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:06:06: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: 6kFT1EXKNvO7byudkNSBaA with category: default 
+01-29 17:06:06: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+{}
+01-29 17:06:16: INFO : Transfer completed, getting final stats
+01-29 17:06:16: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E12.The.Conversation.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 17:06:16: INFO : Download finished: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- id: 6kFT1EXKNvO7byudkNSBaA -- info: 4.10 GB --  417 B/s --  4y1w2d23h59m8s -- location: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 17:06:17: INFO : Deleted from the cloud: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- id: 6kFT1EXKNvO7byudkNSBaA
+01-29 17:18:41: WARNING : My PID is: 638445
+01-29 17:18:41: WARNING : Received Signal: 15
+01-29 17:18:41: INFO : Shutdown recieved
