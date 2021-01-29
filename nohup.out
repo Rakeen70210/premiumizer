@@ -1976,3 +1976,14 @@ Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 15
 01-29 15:48:19: INFO : Starting rclone copy of: Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: F0zOnaFgooNI98SoIg-VZQ with category: default 
 01-29 15:48:19: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
 {}
+{}
+01-29 15:50:07: INFO : Transfer completed, getting final stats
+01-29 15:50:08: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S05E05.Contract.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:50:08: INFO : Download finished: Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: F0zOnaFgooNI98SoIg-VZQ -- info: 922.7 MB --  368 B/s --  1y2d10h43m54s -- location: /mnt/GDrive/default/Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 15:50:08: INFO : def download_task started
+01-29 15:50:08: INFO : Downloading: Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: bqI8zeO5R8AiFVOMqynuhg
+01-29 15:50:08: INFO : for loop entered for downloading
+01-29 15:50:08: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S05E04.Opportunity.Zone.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:50:08: INFO : Starting rclone copy of: Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: bqI8zeO5R8AiFVOMqynuhg with category: default 
+01-29 15:50:08: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}

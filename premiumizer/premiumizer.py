@@ -23,6 +23,7 @@ from email.mime.text import MIMEText
 from logging.handlers import RotatingFileHandler
 from string import ascii_letters, digits
 
+import apprise
 import bencode
 import gevent
 import myjdapi
@@ -538,6 +539,11 @@ class PremConfig:
             self.email_password = prem_config.get(
                 'notifications', 'email_password')
 
+        self.apprise_enabled = prem_config.getboolean('notifications', 'apprise_enabled')
+        if self.apprise_enabled:
+            self.apprise_push_on_failure = prem_config.getboolean('notifications', 'apprise_push_on_failure')
+            self.apprise_url = prem_config.get('notifications', 'apprise_url')
+
         logger.debug('Initializing config complete')
 
 
@@ -892,10 +898,7 @@ def check_cloud_fail(id):
                         msg = 'Cloud error for: %s -- message: %s' % (
                             transfer['name'], transfer['message'])
                         logger.error(msg)
-                        if cfg.email_enabled:
-                            msg = 'Cloud error for: %s -- message: %s' % (
-                                transfer['name'], transfer['message'])
-                            email('Cloud error', msg)
+                        send_notification('Cloud error', msg)
                         return 1
     return 0
 
@@ -1000,8 +1003,10 @@ def notify_nzbtomedia():
     return returncode
 
 
-def email(subject, text=None):
-    logger.debug('def email started')
+def send_notification(subject, text=None, send_email=cfg.email_enabled, send_push=cfg.apprise_enabled):
+    logger.debug('def send_notification started')
+    if not (cfg.email_enabled or cfg.apprise_enabled):
+        return
     global last_email
     if subject == 'download success':
         subject = 'Success for "%s"' % greenlet.task.name
@@ -1047,41 +1052,58 @@ def email(subject, text=None):
     last_email['time'] = datetime.now()
     last_email['subject'] = subject
 
-    # Create message
-    msg = MIMEMultipart()
-    msg['Subject'] = subject
-    msg['From'] = cfg.email_from
-    msg['To'] = cfg.email_to
-    msg['Date'] = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
-    msg['X-Application'] = 'Premiumizer'
-    msg.attach(MIMEText(text, 'plain'))
-    # Send message
-    try:
-        smtp = smtplib.SMTP(cfg.email_server, cfg.email_port)
-
-        if cfg.email_encryption:
-            smtp.starttls()
-
-        if cfg.email_username != '' and cfg.email_password != '':
-            smtp.login(cfg.email_username, cfg.email_password)
-
-        smtp.sendmail(cfg.email_from, cfg.email_to, msg.as_string())
-
-        smtp.quit()
+    if send_email:
+        # Create message
+        msg = MIMEMultipart()
+        msg['Subject'] = subject
+        msg['From'] = cfg.email_from
+        msg['To'] = cfg.email_to
+        msg['Date'] = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
+        msg['X-Application'] = 'Premiumizer'
+        msg.attach(MIMEText(text, 'plain'))
+        # Send message
         try:
-            log = 'Email send for: %s -- id: %s' % (
-                greenlet.task.name, greenlet.task.id)
-        except:
-            log = 'Email send for: %s' % subject
-        logger.info(log)
-    except Exception as err:
-        try:
-            log = 'Email error for: %s -- id: %s -- error: %s' % (
-                greenlet.task.name, greenlet.task.id, err)
-        except:
-            log = 'Email error for: %s' % subject
+            smtp = smtplib.SMTP(cfg.email_server, cfg.email_port)
+
+            if cfg.email_encryption:
+                smtp.starttls()
+
+            if cfg.email_username != '' and cfg.email_password != '':
+                smtp.login(cfg.email_username, cfg.email_password)
+
+            smtp.sendmail(cfg.email_from, cfg.email_to, msg.as_string())
+
+            smtp.quit()
+            try:
+                log = 'Email send for: %s -- id: %s' % (greenlet.task.name, greenlet.task.id)
+            except:
+                log = 'Email send for: %s' % subject
             logger.info(log)
-        logger.error(log)
+        except Exception as err:
+            try:
+                log = 'Email error for: %s -- id: %s -- error: %s' % (greenlet.task.name, greenlet.task.id, err)
+            except:
+                log = 'Email error for: %s' % subject
+                logger.info(log)
+            logger.error(log)
+    
+    if send_push:
+        try:
+            apobj = apprise.Apprise()
+            apobj.add(cfg.apprise_url)
+            apobj.notify(body=text, title=subject)
+            try:
+                log = 'Push sent for: %s -- id: %s' % (greenlet.task.name, greenlet.task.id)
+            except:
+                log = 'Push sent for: %s' % subject
+            logger.info(log)
+        except Exception as err:
+            try:
+                log = 'Push error for: %s -- id: %s -- error: %s' % (greenlet.task.name, greenlet.task.id, err)
+            except:
+                log = 'Push error for: %s' % subject
+                logger.info(log)
+            logger.error('Could not send via Apprise: %s' % err)
 
 
 def jd_query_packages(id=None):
@@ -1679,12 +1701,15 @@ def download_task(task):
             if failed:
                 task.update(local_status='failed: nzbToMedia')
 
-    if cfg.email_enabled and task.local_status != 'stopped' and task.local_status != 'waiting' and task.local_status != 'paused':
+    if task.local_status != 'stopped' and task.local_status != 'waiting' and task.local_status != 'paused':
         if not failed:
-            if not cfg.email_on_failure:
-                email('download success')
+            send_notification(
+                'download success', 
+                send_email=cfg.email_enabled and not cfg.email_on_failure,
+                send_push=cfg.apprise_enabled and not cfg.apprise_push_on_failure
+            )
         else:
-            email('download failed')
+            send_notification('download failed')
 
     if cfg.remove_cloud:
         if not failed:
@@ -1728,8 +1753,7 @@ def prem_connection(method, url, payload, files=None):
             if 'Not logged in. Please log in first' in r.text:
                 msg = 'premiumize.me login error: %s' % r.text
                 logger.error(msg)
-                if cfg.email_enabled:
-                    email('Premiumize.me login error', msg)
+                send_notification('Premiumize.me login error', msg)
                 return 'failed: premiumize.me login error'
             if r.status_code != 200:
                 raise Exception('status_code != 200')
@@ -1745,8 +1769,7 @@ def prem_connection(method, url, payload, files=None):
                 except:
                     msg = 'premiumize.me error: %s' % message
                 logger.error(msg)
-                if cfg.email_enabled:
-                    email('Premiumize.me error', msg)
+                send_notification('Premiumize.me error', msg)
                 return 'failed'
             gevent.sleep(3)
             r = None
@@ -1975,10 +1998,8 @@ def check_downloads(dlsize, id):
             task.update(local_status=None, dldir=dldir)
             msg = 'Download: %s stuck restarting task' % task.name
             logger.warning(msg)
-            if cfg.email_enabled:
-                email('Download stuck', msg)
-            scheduler.scheduler.reschedule_job(
-                'update', trigger='interval', seconds=1)
+            send_notification('Download stuck', msg)
+            scheduler.scheduler.reschedule_job('update', trigger='interval', seconds=1)
 
 
 def get_task(id):
@@ -2071,8 +2092,7 @@ def upload_torrent(torrent):
             logger.error(msg)
             if response_content['message'] == 'You already have this job added.':
                 return 'duplicate'
-            if cfg.email_enabled:
-                email('Upload of torrent failed', msg)
+            send_notification('Upload of torrent failed', msg)
             return 'failed'
     else:
         return 'failed'
@@ -2106,8 +2126,7 @@ def upload_magnet(magnet):
             logger.error(msg)
             if response_content['message'] == 'You already have this job added.':
                 return 'duplicate'
-            if cfg.email_enabled:
-                email('Upload of magnet failed', msg)
+            send_notification('Upload of magnet failed', msg)
             return 'failed'
     else:
         return 'failed'
@@ -2199,8 +2218,7 @@ def upload_nzb(filename):
             logger.error(msg)
             if response_content['message'] == 'You already have this job added.':
                 return 'duplicate'
-            if cfg.email_enabled:
-                email('Upload of nzb failed', msg)
+            send_notification('Upload of nzb failed', msg)
             return 'failed'
     else:
         return 'failed'
@@ -2419,9 +2437,9 @@ def settings():
                 logger.error('JDownloader update failed')
                 flash('JDownloader update failed', 'info')
                 cfg.jd_update_available = 1
-        elif 'Send Test Email' in request.form.values():
-            email('Test Email from premiumizer !')
-            flash('Email send!', 'info')
+        elif 'Send Test Notification' in request.form.values():
+            send_notification('Test notification from Premiumizer!')
+            flash('Notification sent!', 'info')
         else:
             global prem_config
             enable_watchdir = 0
@@ -2496,32 +2514,29 @@ def settings():
             else:
                 prem_config.set('update', 'auto_update', '0')
 
-            prem_config.set('downloads', 'jd_username',
-                            request.form.get('jd_username'))
-            prem_config.set('downloads', 'jd_password',
-                            request.form.get('jd_password'))
-            prem_config.set('downloads', 'jd_device_name',
-                            request.form.get('jd_device_name'))
-            prem_config.set('downloads', 'aria2_host',
-                            request.form.get('aria2_host'))
-            prem_config.set('downloads', 'aria2_port',
-                            request.form.get('aria2_port'))
-            prem_config.set('downloads', 'aria2_secret',
-                            request.form.get('aria2_secret'))
-            prem_config.set('notifications', 'email_from',
-                            request.form.get('email_from'))
-            prem_config.set('notifications', 'email_to',
-                            request.form.get('email_to'))
-            prem_config.set('notifications', 'email_server',
-                            request.form.get('email_server'))
-            prem_config.set('notifications', 'email_port',
-                            request.form.get('email_port'))
-            prem_config.set('notifications', 'email_username',
-                            request.form.get('email_username'))
-            prem_config.set('notifications', 'email_password',
-                            request.form.get('email_password'))
-            prem_config.set('global', 'server_port',
-                            request.form.get('server_port'))
+            if request.form.get('apprise_enabled'):
+                prem_config.set('notifications', 'apprise_enabled', '1')
+            else:
+                prem_config.set('notifications', 'apprise_enabled', '0')
+            if request.form.get('apprise_push_on_failure'):
+                prem_config.set('notifications', 'apprise_push_on_failure', '1')
+            else:
+                prem_config.set('notifications', 'apprise_push_on_failure', '0')
+
+            prem_config.set('downloads', 'jd_username', request.form.get('jd_username'))
+            prem_config.set('downloads', 'jd_password', request.form.get('jd_password'))
+            prem_config.set('downloads', 'jd_device_name', request.form.get('jd_device_name'))
+            prem_config.set('downloads', 'aria2_host', request.form.get('aria2_host'))
+            prem_config.set('downloads', 'aria2_port', request.form.get('aria2_port'))
+            prem_config.set('downloads', 'aria2_secret', request.form.get('aria2_secret'))
+            prem_config.set('notifications', 'email_from', request.form.get('email_from'))
+            prem_config.set('notifications', 'email_to', request.form.get('email_to'))
+            prem_config.set('notifications', 'email_server', request.form.get('email_server'))
+            prem_config.set('notifications', 'email_port', request.form.get('email_port'))
+            prem_config.set('notifications', 'email_username', request.form.get('email_username'))
+            prem_config.set('notifications', 'email_password', request.form.get('email_password'))
+            prem_config.set('notifications', 'apprise_url', request.form.get('apprise_url'))
+            prem_config.set('global', 'server_port', request.form.get('server_port'))
             prem_config.set('global', 'bind_ip', request.form.get('bind_ip'))
             prem_config.set('global', 'reverse_proxy_path',
                             request.form.get('reverse_proxy_path'))
@@ -2760,9 +2775,8 @@ def delete_task(message):
         except:
             msg = 'Download could not be deleted from the database: %s' % task.name
             logger.error(msg)
-            if cfg.email_enabled:
-                email('Download could not be deleted', msg)
-                socketio.emit('delete_failed', {'data': id})
+            send_notification('Download could not be deleted', msg)
+            socketio.emit('delete_failed', {'data': id})
     else:
         payload = {'apikey': cfg.prem_apikey, 'id': task.id}
         r = prem_connection(
@@ -2777,8 +2791,7 @@ def delete_task(message):
                 msg = 'Download could not be deleted from the cloud for: %s -- id: %s -- message: %s' % (
                     task.name, task.id, responsedict['message'])
                 logger.error(msg)
-                if cfg.email_enabled:
-                    email('Download could not be deleted', msg)
+                send_notification('Download could not be deleted', msg)
                 socketio.emit('delete_failed', {'data': id})
         else:
             logger.error(
