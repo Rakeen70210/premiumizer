@@ -1397,7 +1397,7 @@ def download_file():
                     for x in json.loads(r.content)['content']:
                         if x['id'] == greenlet.task.folder_id:
                             fileName = '"{}"'.format(x['name']);
-                            rclone_copy = "rclone rc sync/copy srcFs=premiumize:" + '{}'.format(fileName) + dstFs + "/" + '"{}"'.format(clean_name(fileName)) + " --use-mmap --timeout 5h";
+                            rclone_copy = "rclone rc sync/move srcFs=premiumize:" + '{}'.format(fileName) + dstFs + "/" + '"{}"'.format(clean_name(fileName)) + " --use-mmap --timeout 5h";
                             break
                 logger.info(rclone_copy)
                 subprocess.run("rclone rc core/stats-reset", shell=True)

@@ -1236,3 +1236,743 @@ Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-08 05
 <gevent._socket3.socket at 0x7f949851d9a0 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
 <gevent._socket3.socket at 0x7f949af9e130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=eltons\r\n"
 <gevent._socket3.socket at 0x7f949af9e130 object, fd=14, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c08d10 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 09:21:24 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 09:21:54 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 09:22:24 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 09:22:54 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 09:23:24 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f94985fca90 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 10:12:44 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 10:13:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 10:13:44 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 10:14:14 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:30], next run at: 2021-01-17 10:14:44 GMT)" skipped: maximum number of running instances reached (1)
+<gevent._socket3.socket at 0x7f9494bd7590 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494bd7360 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-18 15:31:52: INFO : Added: Dark Souls Remastered [FitGirl Repack] -- Category:  -- Type:  -- id: 8rTmXKPX-VofaVAx7NNC9Q
+<gevent._socket3.socket at 0x7f9494c5db30 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03§\r\x04\x94#\x0bÜý?\x1bmè°\x08\x145û¾\x9dnrÂ/Ä\x8b²\x18à\x81 ³è\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f94985fca90 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973cabd0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973cabd0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494bd7d60 object, fd=15, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ª\x89ü\x9cÕ\x05ªèKm\x1c\x06\x91Â6xtí\x84l;\x1b=?F¯\x07[³¸äâ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494c089a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c089a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c089a0 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¥Ë-ä$ë±è$·\x8ddË\x0e\x94Þ:\x9cH\x0c\x19\x18à\x0c\x99|ó>MÃÓ\x18\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f949851d9a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f94973ca3b0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494c089a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494c089a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b8d130 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973ca3b0 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03Q®~ÌÒ½\\|¡\x87oçíÜáÎþ±\x1f¹\x03\x9c)\x99+\x94þdè\x1do\x9d\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+01-19 20:19:44: INFO : Added: KMS 360 Pro All 4644.rar -- Category:  -- Type:  -- id: NVibnsAw8kbT8jFqgAhE6A
+01-19 20:19:44: INFO : Added: [FTUApps.com] - KMSoffline 2.1.7 Beta1 (x86-x64) Portable -- Category:  -- Type:  -- id: _1xYjYj2Q_yyTyXxfs8GzQ
+<gevent._socket3.socket at 0x7f9494c08bd0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c5d310 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9494c5dd10 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494c5dd10 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b86d10 object, fd=15, family=2, type=1, proto=0>: Expected GET method: "\x03\x00\x00,'à\x00\x00\x00\x00\x00Cookie: mstshash=eltons\r\n"
+<gevent._socket3.socket at 0x7f94973e3310 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-21 04:28:11: INFO : Added: Adobe Acrobat Pro DC 2020 v20.13.20074 Fix {CracksHash} -- Category:  -- Type:  -- id: XCYbApk_t7OdZisrBeiLdQ
+<gevent._socket3.socket at 0x7f9494c5dd10 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3900 object, fd=15, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03ÆáÜsu[Í\x82\x8a\t\x93\x90ÕPÉo¹Ê|õLø8OA~¢lª<\x8cö\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9496ee99a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9496ee99a0 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-21 20:34:52: INFO : Added: Dark Souls 2 - Scholar of the First Sin [FitGirl Repack] -- Category:  -- Type:  -- id: lxF8MKUQlDZ8MuKcpvK-QA
+<gevent._socket3.socket at 0x7f94973e3900 object, fd=15, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3900 object, fd=15, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9494bb8c20 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494bb8c20 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9494c5dd10 object, fd=18, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x12ÁQÀ¦\x18®ë\x88¬ÎïÞ\x90ÁK°®lI\xa0\x95M\xad\x8f|M¸\x9a\x90HÐ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9494bb82c0 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\r\n'
+<gevent._socket3.socket at 0x7f9494c5d310 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c5d310 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494bb8130 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c086d0 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03¦ú\x92\x85AD]¤úJ¯\x93_d;!-\x1e\x90¾\x9e\xa0¥Ö\xadO\x81\x05À±|±\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494b8d860 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973e3040 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494b86b80 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494b8d3b0 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00+&à\x00\x00\x00\x00\x00Cookie: mstshash=hello\r\n'
+<gevent._socket3.socket at 0x7f9494b86b80 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b86b80 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-23 17:41:19: INFO : Added: [NoobTracks] NieR Soundtracks [FLAC] -- Category:  -- Type:  -- id: DxiJ8Rhdv7d1KSvwMwV5fw
+01-23 17:52:38: INFO : Added: [TBS] NieRAutomata Arranged & Unreleased Tracks [FLAC].zip -- Category:  -- Type:  -- id: -nS12_ghoFRe5AhusrkVaA
+01-23 18:10:51: INFO : Task: [NoobTracks] NieR Soundtracks [FLAC] -- id: DxiJ8Rhdv7d1KSvwMwV5fw -- Category set to: Music
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-23 18:10:53 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-23 18:10:54 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-23 18:10:55 GMT)" skipped: maximum number of running instances reached (1)
+01-23 18:10:55: INFO : def download_task started
+01-23 18:11:04: INFO : Downloading: [NoobTracks] NieR Soundtracks [FLAC] -- id: DxiJ8Rhdv7d1KSvwMwV5fw
+01-23 18:11:04: INFO : for loop entered for downloading
+01-23 18:11:04: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/101 Significance - Nothing.flac
+01-23 18:11:04: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:11:05: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:14: INFO : Transfer completed, getting final stats
+01-23 18:12:14: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/101 Significance - Nothing.flac
+01-23 18:12:14: INFO : for loop entered for downloading
+01-23 18:12:14: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/102 City Ruins - Rays of Light.flac
+01-23 18:12:14: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:14: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:16: INFO : Transfer completed, getting final stats
+01-23 18:12:17: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/102 City Ruins - Rays of Light.flac
+01-23 18:12:17: INFO : for loop entered for downloading
+01-23 18:12:17: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/103 Peaceful Sleep.flac
+01-23 18:12:17: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:17: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:21: INFO : Transfer completed, getting final stats
+01-23 18:12:21: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/103 Peaceful Sleep.flac
+01-23 18:12:21: INFO : for loop entered for downloading
+01-23 18:12:21: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/104 Memories of Dust.flac
+01-23 18:12:21: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:22: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:24: INFO : Transfer completed, getting final stats
+01-23 18:12:24: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/104 Memories of Dust.flac
+01-23 18:12:24: INFO : for loop entered for downloading
+01-23 18:12:24: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/105 Birth of a Wish.flac
+01-23 18:12:24: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:24: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:26: INFO : Transfer completed, getting final stats
+01-23 18:12:26: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/105 Birth of a Wish.flac
+01-23 18:12:26: INFO : for loop entered for downloading
+01-23 18:12:26: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/106 The Color of Depression.flac
+01-23 18:12:26: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:26: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:28: INFO : Transfer completed, getting final stats
+01-23 18:12:29: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/106 The Color of Depression.flac
+01-23 18:12:29: INFO : for loop entered for downloading
+01-23 18:12:29: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/107 Amusement Park.flac
+01-23 18:12:29: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:29: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:31: INFO : Transfer completed, getting final stats
+01-23 18:12:31: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/107 Amusement Park.flac
+01-23 18:12:31: INFO : for loop entered for downloading
+01-23 18:12:31: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/108 A Beautiful Song.flac
+01-23 18:12:31: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:31: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:33: INFO : Transfer completed, getting final stats
+01-23 18:12:33: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/108 A Beautiful Song.flac
+01-23 18:12:33: INFO : for loop entered for downloading
+01-23 18:12:33: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/109 Voice of no Return - Guitar.flac
+01-23 18:12:33: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:33: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:35: INFO : Transfer completed, getting final stats
+01-23 18:12:35: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/109 Voice of no Return - Guitar.flac
+01-23 18:12:35: INFO : for loop entered for downloading
+01-23 18:12:35: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/110 Grandma - Destruction.flac
+01-23 18:12:35: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:36: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:38: INFO : Transfer completed, getting final stats
+01-23 18:12:38: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/110 Grandma - Destruction.flac
+01-23 18:12:38: INFO : for loop entered for downloading
+01-23 18:12:38: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/111 Faltering Prayer - Dawn Breeze.flac
+01-23 18:12:38: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:38: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:40: INFO : Transfer completed, getting final stats
+01-23 18:12:40: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/111 Faltering Prayer - Dawn Breeze.flac
+01-23 18:12:40: INFO : for loop entered for downloading
+01-23 18:12:40: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/112 Emils Shop.flac
+01-23 18:12:40: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:41: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:43: INFO : Transfer completed, getting final stats
+01-23 18:12:43: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/112 Emils Shop.flac
+01-23 18:12:43: INFO : for loop entered for downloading
+01-23 18:12:43: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/113 Treasured Times.flac
+01-23 18:12:43: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:43: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:45: INFO : Transfer completed, getting final stats
+01-23 18:12:45: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/113 Treasured Times.flac
+01-23 18:12:45: INFO : for loop entered for downloading
+01-23 18:12:45: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/114 Vague Hope - Cold Rain.flac
+01-23 18:12:45: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:46: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:48: INFO : Transfer completed, getting final stats
+01-23 18:12:48: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/114 Vague Hope - Cold Rain.flac
+01-23 18:12:48: INFO : for loop entered for downloading
+01-23 18:12:48: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/115 Weight of the World English Version.flac
+01-23 18:12:48: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:49: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:51: INFO : Transfer completed, getting final stats
+01-23 18:12:51: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 1/115 Weight of the World English Version.flac
+01-23 18:12:51: INFO : for loop entered for downloading
+01-23 18:12:51: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/201 Significance.flac
+01-23 18:12:51: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:51: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:53: INFO : Transfer completed, getting final stats
+01-23 18:12:53: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/201 Significance.flac
+01-23 18:12:53: INFO : for loop entered for downloading
+01-23 18:12:53: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/202 City Ruins - Shade.flac
+01-23 18:12:53: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:54: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:56: INFO : Transfer completed, getting final stats
+01-23 18:12:56: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/202 City Ruins - Shade.flac
+01-23 18:12:56: INFO : for loop entered for downloading
+01-23 18:12:56: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/203 End of the Unknown.flac
+01-23 18:12:56: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:56: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:12:58: INFO : Transfer completed, getting final stats
+01-23 18:12:58: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/203 End of the Unknown.flac
+01-23 18:12:58: INFO : for loop entered for downloading
+01-23 18:12:58: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/204 Voice of no Return - Normal.flac
+01-23 18:12:58: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:12:59: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:01: INFO : Transfer completed, getting final stats
+01-23 18:13:01: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/204 Voice of no Return - Normal.flac
+01-23 18:13:01: INFO : for loop entered for downloading
+01-23 18:13:01: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/205 Pascal.flac
+01-23 18:13:01: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:01: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:03: INFO : Transfer completed, getting final stats
+01-23 18:13:03: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/205 Pascal.flac
+01-23 18:13:03: INFO : for loop entered for downloading
+01-23 18:13:03: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/206 Forest Kingdom.flac
+01-23 18:13:03: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:03: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:05: INFO : Transfer completed, getting final stats
+01-23 18:13:05: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/206 Forest Kingdom.flac
+01-23 18:13:05: INFO : for loop entered for downloading
+01-23 18:13:05: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/207 Dark Colossus - Kaiju.flac
+01-23 18:13:05: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:06: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:08: INFO : Transfer completed, getting final stats
+01-23 18:13:08: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/207 Dark Colossus - Kaiju.flac
+01-23 18:13:08: INFO : for loop entered for downloading
+01-23 18:13:08: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/208 Copied City.flac
+01-23 18:13:08: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:08: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:10: INFO : Transfer completed, getting final stats
+01-23 18:13:10: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/208 Copied City.flac
+01-23 18:13:10: INFO : for loop entered for downloading
+01-23 18:13:10: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/209 Wretched Weaponry- Medium-Dynamic.flac
+01-23 18:13:10: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:10: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:12: INFO : Transfer completed, getting final stats
+01-23 18:13:12: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/209 Wretched Weaponry- Medium-Dynamic.flac
+01-23 18:13:12: INFO : for loop entered for downloading
+01-23 18:13:12: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/210 Possessed by Disease.flac
+01-23 18:13:12: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:13: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:15: INFO : Transfer completed, getting final stats
+01-23 18:13:15: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/210 Possessed by Disease.flac
+01-23 18:13:15: INFO : for loop entered for downloading
+01-23 18:13:15: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/211 Broken Heart.flac
+01-23 18:13:15: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:16: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:18: INFO : Transfer completed, getting final stats
+01-23 18:13:18: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/211 Broken Heart.flac
+01-23 18:13:18: INFO : for loop entered for downloading
+01-23 18:13:18: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/212 Wretched Weaponry- Quiet.flac
+01-23 18:13:18: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:18: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:20: INFO : Transfer completed, getting final stats
+01-23 18:13:20: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/212 Wretched Weaponry- Quiet.flac
+01-23 18:13:20: INFO : for loop entered for downloading
+01-23 18:13:20: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/213 Mourning.flac
+01-23 18:13:20: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:21: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:23: INFO : Transfer completed, getting final stats
+01-23 18:13:23: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/213 Mourning.flac
+01-23 18:13:23: INFO : for loop entered for downloading
+01-23 18:13:23: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/214 Dependent Weakling.flac
+01-23 18:13:23: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:23: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:25: INFO : Transfer completed, getting final stats
+01-23 18:13:25: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/214 Dependent Weakling.flac
+01-23 18:13:25: INFO : for loop entered for downloading
+01-23 18:13:25: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/215 Weight of the World Kowaretasekainouta.flac
+01-23 18:13:25: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:26: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:28: INFO : Transfer completed, getting final stats
+01-23 18:13:28: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 2/215 Weight of the World Kowaretasekainouta.flac
+01-23 18:13:28: INFO : for loop entered for downloading
+01-23 18:13:28: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/301 Rebirth & Hope.flac
+01-23 18:13:28: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:29: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:31: INFO : Transfer completed, getting final stats
+01-23 18:13:31: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/301 Rebirth & Hope.flac
+01-23 18:13:31: INFO : for loop entered for downloading
+01-23 18:13:31: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/302 War & War.flac
+01-23 18:13:31: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:31: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:33: INFO : Transfer completed, getting final stats
+01-23 18:13:33: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/302 War & War.flac
+01-23 18:13:33: INFO : for loop entered for downloading
+01-23 18:13:33: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/303 Crumbling Lies - Front.flac
+01-23 18:13:33: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:33: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:35: INFO : Transfer completed, getting final stats
+01-23 18:13:35: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/303 Crumbling Lies - Front.flac
+01-23 18:13:35: INFO : for loop entered for downloading
+01-23 18:13:35: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/304 Widespread Illness.flac
+01-23 18:13:35: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:36: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:38: INFO : Transfer completed, getting final stats
+01-23 18:13:38: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/304 Widespread Illness.flac
+01-23 18:13:38: INFO : for loop entered for downloading
+01-23 18:13:38: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/305 Fortress of Lies.flac
+01-23 18:13:38: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:38: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:40: INFO : Transfer completed, getting final stats
+01-23 18:13:40: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/305 Fortress of Lies.flac
+01-23 18:13:40: INFO : for loop entered for downloading
+01-23 18:13:40: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/306 Vague Hope - Spring Rain.flac
+01-23 18:13:40: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:40: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:42: INFO : Transfer completed, getting final stats
+01-23 18:13:42: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/306 Vague Hope - Spring Rain.flac
+01-23 18:13:42: INFO : for loop entered for downloading
+01-23 18:13:42: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/307 Song of the Ancients - Atonement.flac
+01-23 18:13:42: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:43: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:45: INFO : Transfer completed, getting final stats
+01-23 18:13:45: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/307 Song of the Ancients - Atonement.flac
+01-23 18:13:45: INFO : for loop entered for downloading
+01-23 18:13:45: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/308 Blissful Death.flac
+01-23 18:13:45: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:45: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:47: INFO : Transfer completed, getting final stats
+01-23 18:13:47: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/308 Blissful Death.flac
+01-23 18:13:47: INFO : for loop entered for downloading
+01-23 18:13:47: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/309 Emil - Despair.flac
+01-23 18:13:47: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:47: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:51: INFO : Transfer completed, getting final stats
+01-23 18:13:52: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/309 Emil - Despair.flac
+01-23 18:13:52: INFO : for loop entered for downloading
+01-23 18:13:52: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/310 Faltering Prayer - Starry Sky.flac
+01-23 18:13:52: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:52: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:54: INFO : Transfer completed, getting final stats
+01-23 18:13:54: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/310 Faltering Prayer - Starry Sky.flac
+01-23 18:13:54: INFO : for loop entered for downloading
+01-23 18:13:54: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/311 Alien Manifestation.flac
+01-23 18:13:54: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:54: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:56: INFO : Transfer completed, getting final stats
+01-23 18:13:56: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/311 Alien Manifestation.flac
+01-23 18:13:56: INFO : for loop entered for downloading
+01-23 18:13:56: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/312 The Tower.flac
+01-23 18:13:56: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:57: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:13:59: INFO : Transfer completed, getting final stats
+01-23 18:13:59: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/312 The Tower.flac
+01-23 18:13:59: INFO : for loop entered for downloading
+01-23 18:13:59: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/313 Bipolar Nightmare.flac
+01-23 18:13:59: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:13:59: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:14:01: INFO : Transfer completed, getting final stats
+01-23 18:14:01: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/313 Bipolar Nightmare.flac
+01-23 18:14:01: INFO : for loop entered for downloading
+01-23 18:14:01: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/314 The Sound of the End.flac
+01-23 18:14:01: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:14:01: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:14:04: INFO : Transfer completed, getting final stats
+01-23 18:14:04: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/314 The Sound of the End.flac
+01-23 18:14:04: INFO : for loop entered for downloading
+01-23 18:14:04: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/315 Weight of the World Nouveau - FR Version.flac
+01-23 18:14:04: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:14:04: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:14:06: INFO : Transfer completed, getting final stats
+01-23 18:14:06: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/315 Weight of the World Nouveau - FR Version.flac
+01-23 18:14:06: INFO : for loop entered for downloading
+01-23 18:14:06: INFO : Downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/316 Weight of the World the End of YoRHa.flac
+01-23 18:14:06: INFO : Starting rclone copy of: [NoobTracks] NieR Soundtracks [FLAC] id: DxiJ8Rhdv7d1KSvwMwV5fw with category: Music 
+01-23 18:14:06: INFO : rclone rc sync/copy srcFs=premiumize:"[NoobTracks] NieR Soundtracks [FLAC]" dstFs=gcrypt:Music/"[NoobTracks] NieR Soundtracks [FLAC]" --use-mmap --timeout 5h
+{}
+{}
+01-23 18:14:08: INFO : Transfer completed, getting final stats
+01-23 18:14:08: INFO : Finished downloading file: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]/[NoobTracks] NieR Automata Original Soundtrack [FLAC]/Disc 3/316 Weight of the World the End of YoRHa.flac
+01-23 18:14:08: INFO : Download finished: [NoobTracks] NieR Soundtracks [FLAC] -- id: DxiJ8Rhdv7d1KSvwMwV5fw -- info: 1.21 GB --  13 B/s --  40y1w2d3h20m41s -- location: /mnt/GDrive/Music/[NoobTracks] NieR Soundtracks [FLAC]
+01-23 18:49:40: INFO : Deleted from the cloud: [NoobTracks] NieR Soundtracks [FLAC] -- id: DxiJ8Rhdv7d1KSvwMwV5fw
+<gevent._socket3.socket at 0x7f9494c5d310 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f949434da40 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f949434da40 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9494b8d3b0 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03£|\x0eBa\x8b\x0b\x9bMfm\x8fR\x87ô\x89\n'
+<gevent._socket3.socket at 0x7f9494b8d3b0 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x96\x9b¨\\ÑÙRÁCì\x1eDO8T{\x9aW¢nòL¯þ#ØÂ\x0fpÂ\x1eC\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f949434d6d0 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\r\n'
+<gevent._socket3.socket at 0x7f9494c5dd10 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+Traceback (most recent call last):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 666, in handle_one_request
+    if not self.read_request(self.requestline):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 531, in read_request
+    raise _InvalidClientRequest('Invalid HTTP method: %r' % (raw_requestline,))
+gevent.pywsgi._InvalidClientRequest: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03°w\x8a@\x01ÆÐfK A\x1d\x08*²\x00%\x9c.(ÀÇ¾ôXäh\x8b¡ÚØÈ\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/root/Downloads/premiumizer/env/lib/python3.8/site-packages/gevent/pywsgi.py", line 569, in log_error
+    message = msg % args
+TypeError: not enough arguments for format string
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=18, family=2, type=1, proto=0>: "Invalid HTTP method: '\\x16\\x03\\x01\\x00{\\x01\\x00\\x00w\\x03\\x03°w\\x8a@\\x01ÆÐfK A\\x1d\\x08*²\\x00%\\x9c.(ÀÇ¾ôXäh\\x8b¡ÚØÈ\\x00\\x00\\x1aÀ/À+À\\x11À\\x07À\\x13À\\tÀ\\x14À\\n'" ()
+<gevent._socket3.socket at 0x7f94973dc8b0 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9496ee9b30 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f94973dc8b0 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x91Üm\x85Oî§\x80\x14¾I15*\rÐ_³\x13ùk½¡tÌ\x90¿¢\x9a.¢S\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+01-26 01:14:46: INFO : Added: [Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] -- Category:  -- Type:  -- id: 3FwjXWeobcL0N1tjxNNLsA
+01-26 01:39:16: INFO : Task: [Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] -- id: 3FwjXWeobcL0N1tjxNNLsA -- Category set to: Anime
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-26 01:39:18 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-26 01:39:19 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:01], next run at: 2021-01-26 01:39:20 GMT)" skipped: maximum number of running instances reached (1)
+01-26 01:39:20: INFO : def download_task started
+01-26 01:39:20: INFO : Downloading: [Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] -- id: 3FwjXWeobcL0N1tjxNNLsA
+01-26 01:39:20: INFO : for loop entered for downloading
+01-26 01:39:20: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 01.mkv
+01-26 01:39:28: INFO : Starting rclone copy of: [Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] id: 3FwjXWeobcL0N1tjxNNLsA with category: Anime 
+01-26 01:39:28: INFO : rclone rc sync/copy srcFs=premiumize:"[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]" dstFs=gcrypt:Anime/"[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]" --use-mmap --timeout 5h
+{}
+{}
+01-26 01:45:11: INFO : Transfer completed, getting final stats
+01-26 01:45:11: INFO : Finished downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 01.mkv
+01-26 01:45:11: INFO : for loop entered for downloading
+01-26 01:45:11: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 02.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 02.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 03.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 03.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 04.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 04.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 05.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 05.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 06.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 06.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 07.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 07.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 08.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 08.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 09.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 09.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 10.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 10.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 11.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 11.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 12.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 12.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 13.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 13.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 14.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 14.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 15.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 15.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 16.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 16.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 17.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 17.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 18.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 18.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 19.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 19.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 20.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 20.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 21.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 21.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 22.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 22.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 23.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 23.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 24.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 24.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 25.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 25.mkv
+01-26 01:45:14: INFO : for loop entered for downloading
+01-26 01:45:14: INFO : Downloading file: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 26.mkv
+01-26 01:45:14: INFO : File not downloaded it already exists at: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]/Demon Slayer - 26.mkv
+01-26 01:45:14: INFO : Download finished: [Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] -- id: 3FwjXWeobcL0N1tjxNNLsA -- info: 10.67 GB --  5 kB/s --  3w5d20h38m57s -- location: /mnt/GDrive/Anime/[Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub]
+<gevent._socket3.socket at 0x7f949851d9a0 object, fd=18, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-26 02:40:12: INFO : Deleted from the cloud: [Anime Time] Demon Slayer [BD][Dual Audio][1080p][HEVC 10bit x265][AAC][Eng Sub] -- id: 3FwjXWeobcL0N1tjxNNLsA
+<gevent._socket3.socket at 0x7f9498648400 object, fd=18, family=2, type=1, proto=0>: Invalid HTTP method: '\r\n'
+<gevent._socket3.socket at 0x7f9494b86e00 object, fd=19, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b86e00 object, fd=19, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494ba21d0 object, fd=19, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494b869f0 object, fd=19, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+01-27 04:07:37: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World + Season 1 + Funimation).nzb
+01-27 04:07:39: INFO : Added: [Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation) -- Category: default -- Type: NZB -- id: 2yGzgEDQ4jfMXgzB7D19_Q
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-27 04:10:55 GMT)" skipped: maximum number of running instances reached (1)
+01-27 04:10:56: INFO : def download_task started
+01-27 04:10:56: INFO : Downloading: [Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World + Season 1 + Funimation).nzb -- id: 2yGzgEDQ4jfMXgzB7D19_Q
+01-27 04:10:56: INFO : for loop entered for downloading
+01-27 04:10:56: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/Site PT-BR [Anipakku] anipakku.blogspot.com.txt
+01-27 04:10:56: INFO : Starting rclone copy of: [Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World + Season 1 + Funimation).nzb id: 2yGzgEDQ4jfMXgzB7D19_Q with category: default 
+01-27 04:10:56: INFO : rclone rc sync/copy srcFs=premiumize:"[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World + Season 1 + Funimation).nzb" dstFs=gcrypt:default/"[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb" --use-mmap --timeout 5h
+{}
+{}
+01-27 04:13:19: INFO : Transfer completed, getting final stats
+01-27 04:13:19: INFO : Finished downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/Site PT-BR [Anipakku] anipakku.blogspot.com.txt
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 01.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 01.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 02.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 02.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 03.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 03.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 04.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 04.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 05.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 05.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 06.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 06.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 07.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 07.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 08.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 08.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 09.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 09.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 10.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 10.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 11.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 11.mkv
+01-27 04:13:19: INFO : for loop entered for downloading
+01-27 04:13:19: INFO : Downloading file: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 12.mkv
+01-27 04:13:19: INFO : File not downloaded it already exists at: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen. 12.mkv
+01-27 04:13:19: INFO : Download finished: [Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World + Season 1 + Funimation).nzb -- id: 2yGzgEDQ4jfMXgzB7D19_Q -- info: 3.43 GB --  1 kB/s --  3w6d23h7m5s -- location: /mnt/GDrive/default/[Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World Season 1 Funimation).nzb
+01-27 04:13:20: INFO : Deleted from the cloud: [Anipakku] Kimi to Boku no Saigo no Senjou, Aruiwa Sekai ga Hajimaru Seisen S01 [1080p WEB-DL][HEVC 10Bits][Multi-Subs] (Our Last Crusade or the Rise of a New World + Season 1 + Funimation).nzb -- id: 2yGzgEDQ4jfMXgzB7D19_Q
+<gevent._socket3.socket at 0x7f9494bd7360 object, fd=20, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9498632810 object, fd=20, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9494bd7270 object, fd=20, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+<gevent._socket3.socket at 0x7f9494bd7630 object, fd=20, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00'
+<gevent._socket3.socket at 0x7f94973dc8b0 object, fd=20, family=2, type=1, proto=0>: Invalid HTTP method: '\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x03\x00\x00\x00'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=20, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494bb89a0 object, fd=20, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494c81c70 object, fd=20, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9494ba2f90 object, fd=21, family=2, type=1, proto=0>: Invalid HTTP method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x07\x18\x02©Üb÷êAî\x85Vh}E\x07[\x1fG\x08\x05ëÿ(ééÇ:\x80MÙ½\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494c81400 object, fd=21, family=2, type=1, proto=0>: Invalid http version: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x9fl\x15¥ú\x89d>\x99wæg¢\x12\x189¥o\x0c¥XËf¶,üÚº®Ô¥i\x00\x00\x1aÀ/À+À\x11À\x07À\x13À\tÀ\x14À\n'
+<gevent._socket3.socket at 0x7f9494ba2400 object, fd=21, family=2, type=1, proto=0>: Expected GET method: '\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie: mstshash=Administr\r\n'
+<gevent._socket3.socket at 0x7f9498648400 object, fd=21, family=2, type=1, proto=0>: Expected GET method: '\x16\x03\x01\x00{\x01\x00\x00w\x03\x03\x00\x84\x07\x06t\x14ç¥\x18\x1c\x97\x9cÊ\x0f6»Î7~\x8e\n'
+<gevent._socket3.socket at 0x7f9497112e50 object, fd=21, family=2, type=1, proto=0>: Invalid HTTP method: '\x00\x00\x00¤ÿSMBr\x00\x00\x00\x00\x08\x01@\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00@\x06\x00\x00\x01\x00\x00\x81\x00\x02PC NETWORK PROGRAM 1.0\x00\x02MICROSOFT NETWORKS 1.03\x00\x02MICROSOFT NETWORKS 3.0\x00\x02LANMAN1.0\x00\x02LM1.2X002\x00\x02Samba\x00\x02NT LANMAN 1.0\x00\x02NT LM 0.12\x00'
+01-29 15:26:44: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 Season 1 S01 REPACK 1080p BluRay x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:26:45: INFO : Added: Billions (2016) Season 1 S01 REPACK (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: Ifr9CbYH_LmIK0qLxCOtMA
+01-29 15:27:09: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 Season 2 S02 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:27:10: INFO : Added: Billions (2016) Season 2 S02 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: REnqgCziZ7vW4KXAdgLCiw
+01-29 15:27:19: INFO : def download_task started
+01-29 15:27:19: INFO : Downloading: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- id: Ifr9CbYH_LmIK0qLxCOtMA
+01-29 15:27:19: INFO : for loop entered for downloading
+01-29 15:27:19: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E01.Pilot.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:27:19: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: Ifr9CbYH_LmIK0qLxCOtMA with category: default 
+01-29 15:27:19: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+01-29 15:27:24: ERROR : watchdir file /mnt/GDrive/Blackhole/default/Billions 2016 Season 2 S02 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet no longer exists
+01-29 15:27:29: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 Season 3 S03 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:27:29: INFO : Added: Billions (2016) Season 3 S03 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: zCi2CuKFoYS2adaUcuvpug
+01-29 15:27:34: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 Season 3 S03 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:27:34: ERROR : Upload of magnet: magnet:?xt=urn:btih:29397E28241B99C84BD4D30CDB54B6A570BE5ACD&dn=Billions+%282016%29+Season+3+S03+%281080p+AMZN+WEB-DL+x265+HEVC+10bit+AAC+5.1+Vyndros%29&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.ilibr.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce failed, message: You already have this job added.
+01-29 15:27:37: ERROR : Could not remove duplicate file from watchdir: /mnt/GDrive/Blackhole/default/Billions 2016 Season 3 S03 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet --- error: [Errno 2] No such file or directory: '/mnt/GDrive/Blackhole/default/Billions 2016 Season 3 S03 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet'
+01-29 15:27:47: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 Season 4 S04 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:27:48: INFO : Added: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: 0MAoPVNk5leBuW6MZSJBYA
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 15:27:54 GMT)" skipped: maximum number of running instances reached (1)
+01-29 15:28:07: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 S05E04 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:28:07: INFO : Added: Billions (2016) S05E04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: bqI8zeO5R8AiFVOMqynuhg
+01-29 15:28:26: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 S05E05 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:28:26: INFO : Added: Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: F0zOnaFgooNI98SoIg-VZQ
+01-29 15:28:45: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 S05E06 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:28:45: INFO : Added: Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: yC8nPfUfp8E06-ngtV9xug
+01-29 15:28:47: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 S05E06 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:28:48: ERROR : Upload of magnet: magnet:?xt=urn:btih:A912C70F2D508AFD1463332CB7908D8753E352C8&dn=Billions+%282016%29+S05E06+%281080p+AMZN+WEB-DL+x265+HEVC+10bit+AAC+5.1+Vyndros%29&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.uw0.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce failed, message: You already have this job added.
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 15:28:52 GMT)" skipped: maximum number of running instances reached (1)
+01-29 15:28:54: ERROR : Could not remove file from watchdir: /mnt/GDrive/Blackhole/default/Billions 2016 S05E06 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet --- error: [Errno 2] No such file or directory: '/mnt/GDrive/Blackhole/default/Billions 2016 S05E06 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet'
+01-29 15:29:02: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 S05E07 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:29:02: INFO : Added: Billions (2016) S05E07 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- Category: default -- Type: Torrent -- id: jIZginBIT-zWvaSOxhWfLQ
+01-29 15:29:04: INFO : New watchdir file detected: /mnt/GDrive/Blackhole/default/Billions 2016 S05E07 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet
+01-29 15:29:04: ERROR : Upload of magnet: magnet:?xt=urn:btih:35FD29F0344B617F30FF7B1DAB958F32B6C69994&dn=Billions+%282016%29+S05E07+%281080p+AMZN+WEB-DL+x265+HEVC+10bit+AAC+5.1+Vyndros%29&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.uw0.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.demonii.si%3A1337%2Fannounce&tr=udp%3A%2F%2Fp4p.arenabg.com%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=udp%3A%2F%2Fopentor.org%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.zerobytes.xyz%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce failed, message: You already have this job added.
+01-29 15:29:10: ERROR : Could not remove file from watchdir: /mnt/GDrive/Blackhole/default/Billions 2016 S05E07 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet --- error: [Errno 2] No such file or directory: '/mnt/GDrive/Blackhole/default/Billions 2016 S05E07 1080p AMZN WEB DL x265 HEVC 10bit AAC 5 1 Vyndros.magnet'
+{}
+01-29 15:33:36: INFO : Transfer completed, getting final stats
+01-29 15:33:36: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E01.Pilot.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:33:36: INFO : for loop entered for downloading
+01-29 15:33:36: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E02.Naming.Rights.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:33:36: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: Ifr9CbYH_LmIK0qLxCOtMA with category: default 
+01-29 15:33:36: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+01-29 15:33:40: INFO : Transfer completed, getting final stats
+01-29 15:33:40: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E02.Naming.Rights.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:33:40: INFO : for loop entered for downloading
+01-29 15:33:40: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S01E03.YumTime.1080p.10bit.BluRay.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:33:40: INFO : Starting rclone copy of: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) id: Ifr9CbYH_LmIK0qLxCOtMA with category: default 
+01-29 15:33:41: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 15:35:12 GMT)" skipped: maximum number of running instances reached (1)
+Execution of job "update (trigger: interval[0:00:03], next run at: 2021-01-29 15:37:04 GMT)" skipped: maximum number of running instances reached (1)
+01-29 15:38:39: INFO : Killing rclone copy
+01-29 15:38:39: WARNING : Download stopped for: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 15:38:39: INFO : Deleted from the cloud: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros) -- id: Ifr9CbYH_LmIK0qLxCOtMA
+01-29 15:38:43: WARNING : Could not delete folder for: Billions (2016) Season 1 S01 (1080p BluRay x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 15:38:43: INFO : def download_task started
+01-29 15:38:44: INFO : Downloading: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: 0MAoPVNk5leBuW6MZSJBYA
+01-29 15:38:44: INFO : for loop entered for downloading
+01-29 15:38:44: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S04E01.Chucky.Rhoadess.Greatest.Game.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:38:44: INFO : Starting rclone copy of: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: 0MAoPVNk5leBuW6MZSJBYA with category: default 
+01-29 15:38:44: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+{}
+{}
+{}
+01-29 15:43:59: INFO : Transfer completed, getting final stats
+01-29 15:43:59: INFO : Finished downloading file: /mnt/GDrive/default/Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S04E01.Chucky.Rhoadess.Greatest.Game.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:43:59: INFO : for loop entered for downloading
+01-29 15:43:59: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S04E02.Arousal.Template.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:44:00: INFO : Starting rclone copy of: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: 0MAoPVNk5leBuW6MZSJBYA with category: default 
+01-29 15:44:00: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+01-29 15:45:14: INFO : Deleted from the cloud: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: 0MAoPVNk5leBuW6MZSJBYA
+01-29 15:45:16: INFO : Killing rclone copy
+01-29 15:45:16: WARNING : Download stopped for: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 15:45:19: WARNING : Could not delete folder for: Billions (2016) Season 4 S04 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 15:45:19: INFO : def download_task started
+01-29 15:45:19: INFO : Downloading: Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: yC8nPfUfp8E06-ngtV9xug
+01-29 15:45:19: INFO : for loop entered for downloading
+01-29 15:45:19: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S05E06.The.Nordic.Model.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:45:19: INFO : Starting rclone copy of: Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: yC8nPfUfp8E06-ngtV9xug with category: default 
+01-29 15:45:19: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+01-29 15:46:36: INFO : Deleted from the cloud: Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: yC8nPfUfp8E06-ngtV9xug
+01-29 15:46:37: INFO : Killing rclone copy
+01-29 15:46:37: WARNING : Download stopped for: Billions (2016) S05E06 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)
+01-29 15:46:41: INFO : def download_task started
+01-29 15:46:41: INFO : Downloading: [GAIA] Billions S05 [HD1080, H265, 6CH AAC EN] -- id: jIZginBIT-zWvaSOxhWfLQ
+01-29 15:46:41: INFO : for loop entered for downloading
+01-29 15:46:41: INFO : Downloading file: /mnt/GDrive/default/[GAIA] Billions S05 [HD1080, H265, 6CH AAC EN]/Billions.S05E07.The.Limitless.Shit.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:46:41: INFO : Starting rclone copy of: [GAIA] Billions S05 [HD1080, H265, 6CH AAC EN] id: jIZginBIT-zWvaSOxhWfLQ with category: default 
+01-29 15:46:41: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) S05E07 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) S05E07 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
+{}
+{}
+{}
+01-29 15:48:18: INFO : Transfer completed, getting final stats
+01-29 15:48:18: INFO : Finished downloading file: /mnt/GDrive/default/[GAIA] Billions S05 [HD1080, H265, 6CH AAC EN]/Billions.S05E07.The.Limitless.Shit.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:48:18: INFO : Download finished: [GAIA] Billions S05 [HD1080, H265, 6CH AAC EN] -- id: jIZginBIT-zWvaSOxhWfLQ -- info: 918.0 MB --  366 B/s --  1y2d10h42m4s -- location: /mnt/GDrive/default/[GAIA] Billions S05 [HD1080, H265, 6CH AAC EN]
+01-29 15:48:19: INFO : Deleted from the cloud: [GAIA] Billions S05 [HD1080, H265, 6CH AAC EN] -- id: jIZginBIT-zWvaSOxhWfLQ
+01-29 15:48:19: INFO : def download_task started
+01-29 15:48:19: INFO : Downloading: Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) -- id: F0zOnaFgooNI98SoIg-VZQ
+01-29 15:48:19: INFO : for loop entered for downloading
+01-29 15:48:19: INFO : Downloading file: /mnt/GDrive/default/Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)/Billions.S05E05.Contract.1080p.10bit.AMZN.WEB-DL.AAC5.1.HEVC-Vyndros.mkv
+01-29 15:48:19: INFO : Starting rclone copy of: Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros) id: F0zOnaFgooNI98SoIg-VZQ with category: default 
+01-29 15:48:19: INFO : rclone rc sync/copy srcFs=premiumize:"Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" dstFs=gcrypt:default/"Billions (2016) S05E05 (1080p AMZN WEB-DL x265 HEVC 10bit AAC 5.1 Vyndros)" --use-mmap --timeout 5h
+{}
