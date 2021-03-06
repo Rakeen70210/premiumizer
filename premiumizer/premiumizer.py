@@ -1411,7 +1411,7 @@ def download_file():
                     for x in json.loads(r.content)['content']:
                         if x['id'] == greenlet.task.file_id:
                             fileName = '"{}"'.format(x['name']);
-                            rclone_copy = "rclone rc operations/movefile " + "srcFs=premiumize:" + " srcRemote=" + '{}'.format(fileName) + dstFs + " dstRemote=" + '"{}"'.format(clean_name(fileName)) + " --use-mmap --timeout 5h";
+                            rclone_copy = "rclone rc operations/copyfile " + "srcFs=premiumize:" + " srcRemote=" + '{}'.format(fileName) + dstFs + " dstRemote=" + '"{}"'.format(clean_name(fileName)) + " --use-mmap --timeout 5h";
                             break
                 # if we are transferring a folder
                 else:
