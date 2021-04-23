@@ -1403,12 +1403,12 @@ def download_file():
                 # copying only the specific file that was downloaded to destination
                 fileName=''
                 # store books into myDrive instead of gcrypt
-                #if(greenlet.task.category == "Books"):
-                                #dstFs=" dstFs=myDrive:" + greenlet.task.category
-                #else:
-                    #dstFs=" dstFs=gcrypt:" + greenlet.task.category
+                if(greenlet.task.category == "Books"):
+                    dstFs=" dstFs=onedrive:" + greenlet.task.category
+                else:
+                    dstFs=" dstFs=gcrypt:" + greenlet.task.category
 
-                dstFs=" dstFs=gcrypt:" + greenlet.task.category
+                #dstFs=" dstFs=gcrypt:" + greenlet.task.category
                 # if we are just transferring a single file
                 if greenlet.task.file_id:
                     r = prem_connection(
