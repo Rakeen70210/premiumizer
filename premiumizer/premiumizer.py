@@ -1405,6 +1405,8 @@ def download_file():
                 # store books into myDrive instead of gcrypt
                 if(greenlet.task.category == "Books"):
                     dstFs=" dstFs=onedrive:" + greenlet.task.category
+                elif(greenlet.task.category == "H"):
+                    dstFs=" dstFs=onedrive:" + greenlet.task.category
                 else:
                     dstFs=" dstFs=gcrypt:" + greenlet.task.category
 
