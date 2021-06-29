@@ -67,3 +67,8 @@ docs/_build/
 
 # PyBuilder
 target/
+
+
+#Other things
+env/
+nohup.out
