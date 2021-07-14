@@ -1406,7 +1406,7 @@ def download_file():
                 if(greenlet.task.category == "Books"):
                     dstFs=" dstFs=onedrive:" + greenlet.task.category
                 elif(greenlet.task.category == "H"):
-                    dstFs=" dstFs=onedrive:" + greenlet.task.category
+                    dstFs=" dstFs=onedrivecrypt:" + greenlet.task.category
                 else:
                     dstFs=" dstFs=gcrypt:" + greenlet.task.category
 
